@@ -7,6 +7,8 @@
       "devDependencies": {
         "@biomejs/biome": "2.5.14",
         "@types/bun": "1.3.9",
+        "jscad-planner": "0.0.13",
+        "jscad-to-gltf": "0.0.5",
         "tscircuit": "0.0.2679",
         "typescript": "5.9.3",
       },

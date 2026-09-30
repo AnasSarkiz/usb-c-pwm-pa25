@@ -1,0 +1,100 @@
+{
+  "part": "TPS25730DREFR",
+  "drawing": "TI REF0038A / 4226763 C",
+  "sourceCommitBeforeChange": "85698447f7fa782b78f46b68e7de4a24baafa9c8",
+  "modelSha256": "93e11829a5f6331e5533254d4a14a366cefb4b310a4f3e33d542eadd58466736",
+  "meshCount": 2,
+  "parts": [
+    {
+      "color": [
+        0.12,
+        0.13,
+        0.14,
+        1
+      ],
+      "bounds": [
+        [
+          -3,
+          -2,
+          0.025000000000000022
+        ],
+        [
+          3,
+          2,
+          0.75
+        ]
+      ]
+    },
+    {
+      "color": [
+        0.72,
+        0.74,
+        0.76,
+        1
+      ],
+      "bounds": [
+        [
+          -3,
+          -2,
+          0
+        ],
+        [
+          3,
+          2,
+          0.2
+        ]
+      ]
+    }
+  ],
+  "cad": {
+    "type": "cad_component",
+    "cad_component_id": "cad_component_3",
+    "position": {
+      "x": -27,
+      "y": 0,
+      "z": 0.8
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pcb_component_id": "pcb_component_3",
+    "source_component_id": "source_component_3",
+    "model_glb_url": "./assets/ti-ref0038a.glb",
+    "model_origin_alignment": "center_of_component_on_board_surface",
+    "anchor_alignment": "center_of_component_on_board_surface",
+    "model_origin_position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "size": {
+      "x": 6,
+      "y": 4,
+      "z": 0.75
+    }
+  },
+  "footprintPin1": {
+    "type": "pcb_smtpad",
+    "pcb_smtpad_id": "pcb_smtpad_26",
+    "pcb_component_id": "pcb_component_3",
+    "pcb_port_id": "pcb_port_30",
+    "layer": "top",
+    "shape": "rect",
+    "width": 0.5999988,
+    "height": 0.1999996,
+    "port_hints": [
+      "pin1"
+    ],
+    "is_covered_with_solder_mask": false,
+    "x": -29.899994200000002,
+    "y": 0.999998,
+    "subcircuit_id": "subcircuit_source_group_0"
+  },
+  "pin1MarkerLocalMm": {
+    "x": -2.5,
+    "y": 1.5
+  },
+  "notes": "Nominal package visualization. Rectangular terminal ends and illustrative circular pin-1 recess. No electrical/footprint/copper changes."
+}

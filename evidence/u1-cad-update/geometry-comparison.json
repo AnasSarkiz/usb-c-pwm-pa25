@@ -1,0 +1,230 @@
+[
+  {
+    "type": "schematic_sheet",
+    "before": 6,
+    "after": 6,
+    "identical": true
+  },
+  {
+    "type": "source_group",
+    "before": 1,
+    "after": 1,
+    "identical": true
+  },
+  {
+    "type": "source_net",
+    "before": 59,
+    "after": 59,
+    "identical": true
+  },
+  {
+    "type": "source_port",
+    "before": 394,
+    "after": 394,
+    "identical": true
+  },
+  {
+    "type": "source_component",
+    "before": 128,
+    "after": 128,
+    "identical": true
+  },
+  {
+    "type": "source_manually_placed_via",
+    "before": 4,
+    "after": 4,
+    "identical": true
+  },
+  {
+    "type": "source_board",
+    "before": 1,
+    "after": 1,
+    "identical": true
+  },
+  {
+    "type": "source_refdes_convention_warning",
+    "before": 3,
+    "after": 3,
+    "identical": true
+  },
+  {
+    "type": "source_component_internal_connection",
+    "before": 4,
+    "after": 4,
+    "identical": true
+  },
+  {
+    "type": "source_trace",
+    "before": 360,
+    "after": 360,
+    "identical": true
+  },
+  {
+    "type": "schematic_component",
+    "before": 128,
+    "after": 128,
+    "identical": true
+  },
+  {
+    "type": "schematic_text",
+    "before": 226,
+    "after": 226,
+    "identical": true
+  },
+  {
+    "type": "schematic_group",
+    "before": 1,
+    "after": 1,
+    "identical": true
+  },
+  {
+    "type": "schematic_port",
+    "before": 382,
+    "after": 382,
+    "identical": true
+  },
+  {
+    "type": "schematic_trace",
+    "before": 237,
+    "after": 237,
+    "identical": true
+  },
+  {
+    "type": "schematic_net_label",
+    "before": 127,
+    "after": 127,
+    "identical": true
+  },
+  {
+    "type": "pcb_component",
+    "before": 132,
+    "after": 132,
+    "identical": true
+  },
+  {
+    "type": "pcb_board",
+    "before": 1,
+    "after": 1,
+    "identical": true
+  },
+  {
+    "type": "pcb_hole",
+    "before": 6,
+    "after": 6,
+    "identical": true
+  },
+  {
+    "type": "pcb_plated_hole",
+    "before": 12,
+    "after": 12,
+    "identical": true
+  },
+  {
+    "type": "pcb_solder_paste",
+    "before": 342,
+    "after": 342,
+    "identical": true
+  },
+  {
+    "type": "pcb_smtpad",
+    "before": 377,
+    "after": 377,
+    "identical": true
+  },
+  {
+    "type": "pcb_silkscreen_path",
+    "before": 287,
+    "after": 287,
+    "identical": true
+  },
+  {
+    "type": "pcb_silkscreen_text",
+    "before": 125,
+    "after": 125,
+    "identical": true
+  },
+  {
+    "type": "pcb_courtyard_outline",
+    "before": 34,
+    "after": 34,
+    "identical": true
+  },
+  {
+    "type": "pcb_silkscreen_circle",
+    "before": 13,
+    "after": 13,
+    "identical": true
+  },
+  {
+    "type": "pcb_courtyard_rect",
+    "before": 82,
+    "after": 82,
+    "identical": true
+  },
+  {
+    "type": "pcb_courtyard_circle",
+    "before": 12,
+    "after": 12,
+    "identical": true
+  },
+  {
+    "type": "pcb_fabrication_note_path",
+    "before": 40,
+    "after": 40,
+    "identical": true
+  },
+  {
+    "type": "pcb_silkscreen_rect",
+    "before": 2,
+    "after": 2,
+    "identical": true
+  },
+  {
+    "type": "pcb_via",
+    "before": 204,
+    "after": 204,
+    "identical": true
+  },
+  {
+    "type": "pcb_keepout",
+    "before": 4,
+    "after": 4,
+    "identical": true
+  },
+  {
+    "type": "pcb_port",
+    "before": 394,
+    "after": 394,
+    "identical": true
+  },
+  {
+    "type": "cad_component",
+    "before": 128,
+    "after": 128,
+    "identical": false
+  },
+  {
+    "type": "pcb_trace",
+    "before": 301,
+    "after": 301,
+    "identical": true
+  },
+  {
+    "type": "source_part_not_found_warning",
+    "before": 116,
+    "after": 1,
+    "identical": false
+  },
+  {
+    "type": "pcb_copper_pour",
+    "before": 5,
+    "after": 5,
+    "identical": true
+  },
+  {
+    "type": "source_project_metadata",
+    "before": 1,
+    "after": 1,
+    "identical": false
+  }
+]

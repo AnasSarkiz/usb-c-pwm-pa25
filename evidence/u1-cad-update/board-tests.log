@@ -1,0 +1,42 @@
+bun test v1.3.9 (cf6cdbbb)
+
+tests/board.test.ts:
+(pass) power must pass PD negotiation, input protection, regulation, and reverse blocking [1.38ms]
+(pass) hardware faults override the firmware drive request and reset defaults disable power [0.10ms]
+(pass) both USB orientations, gate protection, motor polarity and standard JST SWD [0.20ms]
+(pass) MOSFET and shunt-reference symbols retain the manufacturer's physical pin numbers [0.16ms]
+(pass) six native A4 sheets and exact supplier identities for every assembled part [0.42ms]
+235 | 		expect(via.layers).toEqual(["top", "inner1", "inner2", "bottom"]);
+236 | 		for (const pad of pads)
+237 | 			expect(
+238 | 				padDistance(via, pad.geometry) - via.hole_diameter / 2,
+239 | 				`${via.pcb_via_id} / ${pad.id}`,
+240 | 			).toBeGreaterThanOrEqual(0.19999);
+           ^
+error: pcb_via_7 / pcb_smtpad_118
+
+Expected: >= 0.19999
+Received: 0.15000128000163507
+
+      at <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/tests/board.test.ts:240:6)
+(fail) ordinary via holes clear every SMT pad, including same-net pads [1.95ms]
+(pass) no unresolved native error records [0.12ms]
+249 | 	for (const trace of records
+250 | 		.filter((record) => record.type === "pcb_trace")
+251 | 		.map((record) => pcb_trace.parse(record))) {
+252 | 		for (const point of trace.route) {
+253 | 			if (point.route_type !== "wire") continue;
+254 | 			expect(point.width, trace.pcb_trace_id).toBeGreaterThanOrEqual(0.14999);
+                                                 ^
+error: source_net_18_mst2_0
+
+Expected: >= 0.14999
+Received: 0.1
+
+      at <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/tests/board.test.ts:254:44)
+(fail) generated copper respects the 0.15 mm minimum signal width [12.95ms]
+
+ 6 pass
+ 2 fail
+ 5071 expect() calls
+Ran 8 tests across 1 file. [97.00ms]

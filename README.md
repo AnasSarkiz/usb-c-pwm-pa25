@@ -49,11 +49,13 @@ bunx tsci check shorts dist/index/circuit.json
 bunx tsci snapshot index.circuit.tsx
 ```
 
-Read the routing stage in VALIDATION before changing routing configuration. The 3,600,000 ms build-worker timeout is retained. `firmware/README.md` describes toolchain setup, flashing and required brownout option bytes. No physical hardware, hosted build, publication or order is claimed.
+Read the routing stage in VALIDATION before changing routing configuration. The 3,600,000 ms build-worker timeout is retained. `firmware/README.md` describes toolchain setup, flashing and required brownout option bytes. No physical hardware tests or board order are claimed.
 
 The review archive excludes downloaded compilers and installed Node dependencies. It retains the exact lockfile, required licensed MCU headers/startup, firmware source and compiled outputs, schematic PDF, reviewed BOM, calculations and validation evidence. Install the pinned dependencies and obtain the stated Arm compiler to rebuild. This archive is not a fabrication package.
 
 Public locations: [GitHub source](https://github.com/AnasSarkiz/usb-c-pwm-pa25) and [tscircuit project](https://tscircuit.com/AnasSarkiz/usb-c-pwm-pa25). See [PUBLICATION.md](PUBLICATION.md) for the published file scope and reproduction details. The `private` field in package.json prevents accidental npm publication; GitHub and tscircuit visibility are managed separately.
+
+Version **0.1.0-prototype.2** adds a local, datasheet-derived 3D package model for U1 (TPS25730DREFR), including contacts, exposed pads and a pin-1 indicator. [Model details and reproduction](assets/README.md). It is a rendered package visualization; the electrical design and rejected routing are unchanged.
 
 - [Architecture and pin review](docs/ARCHITECTURE.md)
 - [Calculations and remaining qualification](docs/CALCULATIONS.md)

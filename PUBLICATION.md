@@ -4,7 +4,7 @@ The user authorized a new public GitHub repository and a tscircuit project on 20
 
 - GitHub: https://github.com/AnasSarkiz/usb-c-pwm-pa25
 - tscircuit: https://tscircuit.com/AnasSarkiz/usb-c-pwm-pa25
-- Design revision: A1; package version: 0.1.0-prototype.1.
+- Design revision: A1; package version: 0.1.0-prototype.2.
 - Status: **unvalidated prototype; do not fabricate**.
 
 ## Published contents
@@ -28,3 +28,14 @@ Use the frozen Bun lockfile and the compiler version described in firmware/READM
 The installed tsci push implementation enumerates project files without consulting .gitignore. Publication therefore uses a clean export of the reviewed Git tree, including its dist directory, and the native `tsci push --include-dist --compress` command. No generated copper is patched and no routing arrays are imported. Verify uploaded source and dist hashes against the public manifest.
 
 Original project code has no additional license grant in this snapshot. Retained third-party firmware files carry their original license notices. The package.json private flag prevents accidental npm publication and does not control either repository's public visibility.
+
+## U1 visualization update
+
+Version 0.1.0-prototype.2 adds the locally generated REF0038A GLB, its declarative
+source, reproduction instructions, inspected model renders and validation logs.
+The user requested this follow-up after discovering U1's missing 3D model.
+Its baseline is commit 85698447f7fa782b78f46b68e7de4a24baafa9c8. No circuit,
+footprint, copper, firmware or fabrication approval changes accompany it.
+The native build output is regenerated, and the previously documented failed
+checks remain visible. The schematic PDF and rejected copper previews remain
+applicable because the generated schematic and copper records are identical.

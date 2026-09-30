@@ -1,6 +1,6 @@
 # A1 validation record
 
-Board: USB-C PWM controller for STEPPERONLINE PA25-24126000-G23. Revision **A1 / 0.1.0-prototype.1**, 2026-09-30. This is an **untested prototype**, not a hardware-tested store product. Initial local development used source/dependency/output checksums. The authorized public snapshot adds a board-local Git repository and PUBLICATION.sha256; no electrical design changes accompany publication.
+Board: USB-C PWM controller for STEPPERONLINE PA25-24126000-G23. Revision **A1 / 0.1.0-prototype.2**, 2026-09-30. This is an **untested prototype**, not a hardware-tested store product. Initial local development used source/dependency/output checksums. The authorized public snapshot adds a board-local Git repository and PUBLICATION.sha256; no electrical design changes accompany publication or the U1 visualization update.
 
 ## Stage status
 
@@ -82,3 +82,39 @@ Resolve the native routing/checker defects with this reproducible source and rej
 ## Public snapshot checks
 
 For the authorized public-source upload, formatting, TypeScript, netlist, placement, native build, board tests and independent shorts were rerun; see evidence/publish-*.log. Formatting/TypeScript and placement pass. Build again logs the DRC exception despite returning zero; board tests retain two failures and shorts retains the same short. evidence/publish-geometry-comparison.json confirms unchanged copper, pads, holes and electrical connections. Publication does not change any failed validation gate. Native dist is included for reproducible review, explicitly rejected for fabrication. Hosted-build status must be assessed separately from upload success.
+
+## U1 3D model update — 0.1.0-prototype.2
+
+Baseline: commit 85698447f7fa782b78f46b68e7de4a24baafa9c8. The only component
+change is U1's explicit local GLB reference. The model is original visualization
+geometry based on TI REF0038A drawing 4226763/C; see assets/README.md for nominal
+dimensions, simplified features and reproduction. It is not a manufacturer STEP
+model. JSCAD planner 0.0.13 and GLTF exporter 0.0.5 are now direct pinned
+dependencies; they were already present transitively. No transitive versions changed.
+
+The model-only review passed: measured bounds −3…3 × −2…2 × 0…0.75 mm, two
+colored meshes, seating plane at the top board surface (z = 0.8 mm), zero rotation,
+and the pin-1 marker in the same quadrant as footprint pin 1. Top, underside,
+component-on-footprint and full-board renders were visually inspected.
+Evidence: evidence/u1-cad-update/model-verification.json, model-top.png,
+model-bottom.png, component-3d.png and dist/index/3d.png.
+
+Revalidation from the current source, with routing enabled:
+
+- `bun run format:check` and `bun run typecheck`: passed.
+- `bunx tsci check netlist index.circuit.tsx` and `check placement`: passed;
+  placement reports zero errors and warnings.
+- `bunx tsci build index.circuit.tsx --pcb-png --pcb-svgs --schematic-svgs --3d-png`:
+  model and render generated, but the existing asynchronous Boolean DRC exception
+  persists despite exit zero. Build is not accepted for fabrication.
+- `bun test`: six pass, two fail (existing drill clearance and trace-width failures).
+- `bunx tsci check shorts dist/index/circuit.json`: same U1.DRAIN2/CC2 short.
+- `bunx tsci snapshot index.circuit.tsx`: reports matching PCB/schematic images,
+  but retains the DRC exception; this is not an accepted validation baseline.
+
+Logs are in evidence/u1-cad-update. Its geometry-comparison.json confirms every
+PCB, schematic and electrical record type is unchanged. Only CAD, package-version
+metadata and transient supplier lookup warnings differ. Earlier pin/BOM/schematic,
+firmware and rejected-copper evidence therefore remains applicable; no fabrication
+outputs were approved or regenerated. All failed stage statuses above remain in
+force, and physical testing remains unperformed.

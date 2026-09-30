@@ -1,4 +1,5 @@
 import type { ChipProps } from "@tscircuit/props";
+import modelUrl from "../assets/ti-ref0038a.glb";
 
 const pinLabels = {
 	pin1: ["LDO_3V3"],
@@ -598,6 +599,12 @@ export const TPS25730DREFR = (props: ChipProps<typeof pinLabels>) => {
 					/>
 				</footprint>
 			}
+			cadModel={{
+				glbUrl: modelUrl,
+				modelOriginPosition: { x: 0, y: 0, z: 0 },
+				size: { x: 6, y: 4, z: 0.75 },
+				pcbRotationOffset: 0,
+			}}
 			{...props}
 		/>
 	);

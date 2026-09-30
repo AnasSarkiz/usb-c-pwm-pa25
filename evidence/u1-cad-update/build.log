@@ -1,0 +1,44 @@
+Building 1 file(s)...
+Building index.circuit.tsx...
+Generating circuit JSON...
+Saved autorouting paths to .tscircuit/autorouting-artifacts/index-circuit-tsx-2e2764dae4/subcircuit_source_group_0-phase-default-order-0.pcb-trace-paths.json (import this JSON into <autoroutingphase pcbTracePaths={...} />).
+Async effect error in PcbDesignRuleChecks "board:drc-checks":
+Error: source_net_36_mst1_0: Unresolved boundary conflict in boolean operation
+    at convertCircuitJsonToFlattenJs (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/checks/dist/index.js:2195:37)
+    at checkCopperPourShorts (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/checks/dist/index.js:2213:32)
+    at runAllRoutingChecks (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/checks/dist/index.js:12553:8)
+    at <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70608:11)
+    at <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70667:15)
+    at _queueAsyncEffect (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:888:16)
+    at updatePcbDesignRuleChecks (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70665:10)
+    at doInitialPcbDesignRuleChecks (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70554:10)
+    at runRenderPhase (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:1055:24)
+    at runRenderCycle (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:1004:12)
+    at render (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:69400:16)
+    at generateCircuitJson (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:167596:12)
+    at async <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:167703:28)
+    at async <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:182225:38)
+    at async <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:182347:15)
+    at processTicksAndRejections (native:7:39)
+Circuit JSON written to dist/index/circuit.json
+The "Q" prefix is being used with a <chip />, try using it with a <transistor />
+The "Q" prefix is being used with a <chip />, try using it with a <transistor />
+The "Q" prefix is being used with a <chip />, try using it with a <transistor />
+Failed to fetch supplier footprint for <capacitor#546(.power>.C19) /> (jlcpcb:C1671): No exact EasyEDA component match for "C1671"
+Generating preview images...
+[index] Generating PCB SVG...
+[index] Written pcb.svg
+[index] Generating PCB PNG...
+[index] Written pcb.png
+[index] Generating schematic SVG...
+[index] Written schematic.svg
+[index] Generating 3D PNG...
+[index] Written 3d.png
+
+Build complete
+  Circuits  1 passed
+  Options   pcb-png, pcb-svgs, schematic-svgs, 3d-png
+  Output    dist
+
+✓ Done
+Build exiting with code 0: build finished successfully

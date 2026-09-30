@@ -1,0 +1,23 @@
+Saved autorouting paths to .tscircuit/autorouting-artifacts/index-circuit-tsx-2e2764dae4/subcircuit_source_group_0-phase-default-order-0.pcb-trace-paths.json (import this JSON into <autoroutingphase pcbTracePaths={...} />).
+Async effect error in PcbDesignRuleChecks "board:drc-checks":
+Error: source_net_36_mst1_0: Unresolved boundary conflict in boolean operation
+    at convertCircuitJsonToFlattenJs (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/checks/dist/index.js:2195:37)
+    at checkCopperPourShorts (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/checks/dist/index.js:2213:32)
+    at runAllRoutingChecks (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/checks/dist/index.js:12553:8)
+    at <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70608:11)
+    at <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70667:15)
+    at _queueAsyncEffect (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:888:16)
+    at updatePcbDesignRuleChecks (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70665:10)
+    at doInitialPcbDesignRuleChecks (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70554:10)
+    at runRenderPhase (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:1055:24)
+    at runRenderCycle (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:1004:12)
+    at render (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:69400:16)
+    at generateCircuitJson (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:167596:12)
+    at async <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:182844:27)
+    at async <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:378396:28)
+    at async <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:378726:28)
+    at async <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:378795:11)
+    at processTicksAndRejections (native:7:39)
+✅ __snapshots__/index.circuit-pcb.snap.svg
+✅ __snapshots__/index.circuit-schematic.snap.svg
+All snapshots match
