@@ -1,0 +1,16 @@
+{
+  "query": "RC0603FR-0727K4L",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 165753,
+      "mfr": "RC0603FR-0727K4L",
+      "package": "0603",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 100mW 27.4kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "stock": 87,
+      "price": 0.0018
+    }
+  ]
+}

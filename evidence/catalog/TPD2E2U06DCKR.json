@@ -1,0 +1,38 @@
+{
+  "query": "TPD2E2U06DCKR",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 5350871,
+      "mfr": "TPD2E2U06DCKR-TP",
+      "package": "SOT-323",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 11353,
+      "price": 0.0994
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 1855726,
+      "mfr": "TPD2E2U06DCKR",
+      "package": "SC-70-3",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+125℃ 1.5pF 10nA 12.4V 2 5.5A@8/20us 5.5V 6.5V 75W@8/20us Bidirectional IEC 61000-4-2、IEC 61000-4-5 TVS SC-70-3 ESD and Surge Protection (TVS/ESD) ROHS",
+      "stock": 3612,
+      "price": 0.1741
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 39832187,
+      "mfr": "TPD2E2U06DCKR-ES",
+      "package": "SOT-323",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "SOT-323 ESD and Surge Protection (TVS/ESD) ROHS",
+      "stock": 2147,
+      "price": 0.0362
+    }
+  ]
+}

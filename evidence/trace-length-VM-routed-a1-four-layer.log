@@ -1,0 +1,1033 @@
+<TraceLengthAnalysis requestedTarget="net.VM" resolvedTarget="net.VM" targetKind="net" traceCount="20" totalLengthMm="291.37" totalStraightLineDistanceMm="309.48">
+  <Trace id="source_trace_186:source_port_210" label="C20.pin1 -&gt; net.VM" connectionType="via net" lengthMm="3.68" straightLineDistanceMm="11.36">
+    <ConnectedPins>
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+    <Path>
+      <Point x="28.18" y="2.00" layer="top" kind="endpoint" />
+      <Point x="28.18" y="2.01" layer="top" kind="track" />
+      <Point x="28.42" y="2.25" layer="top" kind="track" />
+      <Point x="28.42" y="2.75" layer="top" kind="track" />
+      <Point x="29.25" y="3.58" layer="top" kind="track" />
+      <Point x="29.25" y="3.92" layer="top" kind="track" />
+      <Point x="29.42" y="4.08" layer="top" kind="track" />
+      <Point x="29.42" y="4.25" layer="top" kind="track" />
+      <Point x="29.58" y="4.42" layer="top" kind="track" />
+      <Point x="29.58" y="4.58" layer="top" kind="track" />
+      <Point x="29.75" y="4.75" layer="top" kind="track" />
+      <Point x="29.75" y="4.93" layer="top" kind="track" />
+      <Point x="29.82" y="5.00" layer="top" kind="endpoint" />
+    </Path>
+  </Trace>
+  <Trace id="source_trace_191:source_port_215" label="C22.pin2 -&gt; net.VM" connectionType="via net" lengthMm="8.52" straightLineDistanceMm="10.69">
+    <ConnectedPins>
+      <Pin ref="C22.pin2" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+    <Path>
+      <Point x="29.82" y="5.00" layer="top" kind="endpoint" />
+      <Point x="30.36" y="5.59" layer="top" kind="track" />
+      <Point x="30.29" y="9.26" layer="top" kind="track" />
+      <Point x="30.34" y="9.44" layer="top" kind="track" />
+      <Point x="32.78" y="11.75" layer="top" kind="track" />
+      <Point x="32.93" y="11.75" layer="top" kind="track" />
+      <Point x="33.17" y="12.00" layer="top" kind="endpoint" />
+    </Path>
+  </Trace>
+  <Trace id="source_trace_192:source_port_217" label="C23.pin1 -&gt; net.VM" connectionType="via net" lengthMm="26.56" straightLineDistanceMm="26.56">
+    <ConnectedPins>
+      <Pin ref="C23.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_225:source_port_249" label="C31.pin1 -&gt; net.VM" connectionType="via net" lengthMm="4.92" straightLineDistanceMm="12.57">
+    <ConnectedPins>
+      <Pin ref="C31.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+    <Path>
+      <Point x="33.17" y="12.00" layer="top" kind="endpoint" />
+      <Point x="33.19" y="12.00" layer="top" kind="track" />
+      <Point x="33.83" y="11.36" layer="top" kind="track" />
+      <Point x="33.83" y="11.36" layer="bottom" kind="track" />
+      <Point x="35.11" y="11.36" layer="bottom" kind="track" />
+      <Point x="36.45" y="12.70" layer="bottom" kind="track" />
+      <Point x="36.45" y="12.70" layer="top" kind="via" />
+      <Point x="36.95" y="12.78" layer="top" kind="track" />
+      <Point x="37.17" y="13.00" layer="top" kind="endpoint" />
+    </Path>
+  </Trace>
+  <Trace id="source_trace_213:source_port_237" label="R40.pin1 -&gt; net.VM" connectionType="via net" lengthMm="9.87" straightLineDistanceMm="4.54">
+    <ConnectedPins>
+      <Pin ref="R40.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+    <Path>
+      <Point x="16.18" y="11.00" layer="top" kind="endpoint" />
+      <Point x="17.08" y="11.90" layer="top" kind="track" />
+      <Point x="17.10" y="11.95" layer="top" kind="track" />
+      <Point x="17.10" y="11.95" layer="bottom" kind="track" />
+      <Point x="19.80" y="14.65" layer="bottom" kind="track" />
+      <Point x="22.82" y="14.65" layer="bottom" kind="track" />
+      <Point x="22.82" y="14.65" layer="top" kind="via" />
+      <Point x="23.66" y="15.50" layer="top" kind="track" />
+      <Point x="24.18" y="15.50" layer="top" kind="endpoint" />
+    </Path>
+  </Trace>
+  <Trace id="source_trace_227:source_port_251" label="R41.pin1 -&gt; net.VM" connectionType="via net" lengthMm="6.05" straightLineDistanceMm="6.05">
+    <ConnectedPins>
+      <Pin ref="R41.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_235:source_port_259" label="R44.pin1 -&gt; net.VM" connectionType="via net" lengthMm="16.66" straightLineDistanceMm="16.66">
+    <ConnectedPins>
+      <Pin ref="R44.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_304:source_port_328" label="R53.pin1 -&gt; net.VM" connectionType="via net" lengthMm="29.07" straightLineDistanceMm="29.07">
+    <ConnectedPins>
+      <Pin ref="R53.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_244:source_port_268" label="R70.pin1 -&gt; net.VM" connectionType="via net" lengthMm="21.00" straightLineDistanceMm="21.00">
+    <ConnectedPins>
+      <Pin ref="R70.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_246:source_port_270" label="R71.pin1 -&gt; net.VM" connectionType="via net" lengthMm="13.95" straightLineDistanceMm="13.95">
+    <ConnectedPins>
+      <Pin ref="R71.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_248:source_port_272" label="R72.pin1 -&gt; net.VM" connectionType="via net" lengthMm="6.00" straightLineDistanceMm="9.61">
+    <ConnectedPins>
+      <Pin ref="R72.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+    <Path>
+      <Point x="18.93" y="20.00" layer="top" kind="endpoint" />
+      <Point x="18.93" y="26.00" layer="top" kind="track" />
+      <Point x="18.93" y="26.00" layer="top" kind="endpoint" />
+    </Path>
+  </Trace>
+  <Trace id="source_trace_250:source_port_274" label="R73.pin1 -&gt; net.VM" connectionType="via net" lengthMm="6.00" straightLineDistanceMm="11.61">
+    <ConnectedPins>
+      <Pin ref="R73.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+    <Path>
+      <Point x="27.43" y="20.00" layer="top" kind="endpoint" />
+      <Point x="27.43" y="26.00" layer="top" kind="track" />
+      <Point x="27.43" y="26.00" layer="top" kind="endpoint" />
+    </Path>
+  </Trace>
+  <Trace id="source_trace_252:source_port_276" label="R74.pin1 -&gt; net.VM" connectionType="via net" lengthMm="24.30" straightLineDistanceMm="24.30">
+    <ConnectedPins>
+      <Pin ref="R74.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_254:source_port_278" label="R75.pin1 -&gt; net.VM" connectionType="via net" lengthMm="18.55" straightLineDistanceMm="18.55">
+    <ConnectedPins>
+      <Pin ref="R75.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_256:source_port_280" label="R76.pin1 -&gt; net.VM" connectionType="via net" lengthMm="15.55" straightLineDistanceMm="15.55">
+    <ConnectedPins>
+      <Pin ref="R76.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_258:source_port_282" label="R77.pin1 -&gt; net.VM" connectionType="via net" lengthMm="16.86" straightLineDistanceMm="16.86">
+    <ConnectedPins>
+      <Pin ref="R77.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_206:source_port_230" label="TP5.pin1 -&gt; net.VM" connectionType="via net" lengthMm="28.81" straightLineDistanceMm="28.81">
+    <ConnectedPins>
+      <Pin ref="TP5.pin1" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_141:source_port_167" label="U5.OUT -&gt; net.VM" connectionType="via net" lengthMm="16.00" straightLineDistanceMm="12.74">
+    <ConnectedPins>
+      <Pin ref="U5.OUT" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U6.VM" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+    <Path>
+      <Point x="12.26" y="1.00" layer="top" kind="endpoint" />
+      <Point x="12.22" y="0.96" layer="top" kind="track" />
+      <Point x="12.20" y="-1.15" layer="top" kind="track" />
+      <Point x="12.20" y="-1.15" layer="inner1" kind="track" />
+      <Point x="12.19" y="-0.87" layer="inner1" kind="track" />
+      <Point x="12.19" y="-0.79" layer="inner1" kind="track" />
+      <Point x="12.19" y="5.99" layer="inner1" kind="track" />
+      <Point x="15.62" y="9.44" layer="inner1" kind="track" />
+      <Point x="15.62" y="9.44" layer="top" kind="via" />
+      <Point x="15.62" y="9.42" layer="top" kind="track" />
+      <Point x="15.62" y="9.48" layer="top" kind="track" />
+      <Point x="16.18" y="10.03" layer="top" kind="track" />
+      <Point x="16.18" y="11.00" layer="top" kind="endpoint" />
+    </Path>
+  </Trace>
+  <Trace id="source_trace_176:source_port_201" label="U6.VM -&gt; net.VM" connectionType="via net" lengthMm="11.91" straightLineDistanceMm="11.91">
+    <ConnectedPins>
+      <Pin ref="U6.VM" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U8.VCC" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+  <Trace id="source_trace_217:source_port_248" label="U8.VCC -&gt; net.VM" connectionType="via net" lengthMm="7.09" straightLineDistanceMm="7.09">
+    <ConnectedPins>
+      <Pin ref="U8.VCC" />
+      <Pin ref="C20.pin1" />
+      <Pin ref="C22.pin2" />
+      <Pin ref="C23.pin1" />
+      <Pin ref="C31.pin1" />
+      <Pin ref="R40.pin1" />
+      <Pin ref="R41.pin1" />
+      <Pin ref="R44.pin1" />
+      <Pin ref="R53.pin1" />
+      <Pin ref="R70.pin1" />
+      <Pin ref="R71.pin1" />
+      <Pin ref="R72.pin1" />
+      <Pin ref="R73.pin1" />
+      <Pin ref="R74.pin1" />
+      <Pin ref="R75.pin1" />
+      <Pin ref="R76.pin1" />
+      <Pin ref="R77.pin1" />
+      <Pin ref="TP5.pin1" />
+      <Pin ref="U5.OUT" />
+      <Pin ref="U6.VM" />
+    </ConnectedPins>
+    <PinPositions>
+      <Pin ref="U8.VCC" x="27.09" y="13.60" layers="top" />
+      <Pin ref="C20.pin1" x="28.18" y="2.00" layers="top" />
+      <Pin ref="C22.pin2" x="29.82" y="5.00" layers="top" />
+      <Pin ref="C23.pin1" x="21.50" y="-16.00" layers="top" />
+      <Pin ref="C31.pin1" x="33.17" y="12.00" layers="top" />
+      <Pin ref="R40.pin1" x="16.18" y="11.00" layers="top" />
+      <Pin ref="R41.pin1" x="24.18" y="15.50" layers="top" />
+      <Pin ref="R44.pin1" x="37.17" y="13.00" layers="top" />
+      <Pin ref="R53.pin1" x="6.83" y="-15.00" layers="top" />
+      <Pin ref="R70.pin1" x="1.93" y="20.00" layers="top" />
+      <Pin ref="R71.pin1" x="10.43" y="20.00" layers="top" />
+      <Pin ref="R72.pin1" x="18.93" y="20.00" layers="top" />
+      <Pin ref="R73.pin1" x="27.43" y="20.00" layers="top" />
+      <Pin ref="R74.pin1" x="1.93" y="26.00" layers="top" />
+      <Pin ref="R75.pin1" x="10.43" y="26.00" layers="top" />
+      <Pin ref="R76.pin1" x="18.93" y="26.00" layers="top" />
+      <Pin ref="R77.pin1" x="27.43" y="26.00" layers="top" />
+      <Pin ref="TP5.pin1" x="34.00" y="-15.00" layers="top" />
+      <Pin ref="U5.OUT" x="12.26" y="1.00" layers="top" />
+      <Pin ref="U6.VM" x="25.98" y="-0.13" layers="top" />
+    </PinPositions>
+    <Connection kind="via net" target="net.VM" x="20.69" y="10.55" layer="top" />
+    <TraceRequirements none />
+  </Trace>
+</TraceLengthAnalysis>

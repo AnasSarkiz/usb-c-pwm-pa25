@@ -1,0 +1,311 @@
+{
+  "note": "Compare records by type, ignoring ordering and warning records only. No generated output is modified. The board record adds explicit allow_blind_and_buried_vias=false, matching the documented default.",
+  "changed": [
+    {
+      "type": "pcb_board",
+      "previousCount": 1,
+      "finalCount": 1,
+      "identical": false,
+      "previousHash": "02c491a85f55fb6bc337fcaf00faa3782a8c303a17051f6136ebf1c5e9783e7a",
+      "finalHash": "7cac66867b85b2da8835f6f3f4874c27ee29e9aa91aff36927e61638002031a9"
+    },
+    {
+      "type": "source_project_metadata",
+      "previousCount": 1,
+      "finalCount": 1,
+      "identical": false,
+      "previousHash": "7f1900d780775b7c112919533e79d0e9ceede416c1065474b5a5add609e98e0a",
+      "finalHash": "2d935f735727262b127349d98b3267e08808b75ddf1960baa491409b1cabff15"
+    }
+  ],
+  "results": [
+    {
+      "type": "schematic_sheet",
+      "previousCount": 6,
+      "finalCount": 6,
+      "identical": true,
+      "previousHash": "8b857398baed1d1c4eca020e27a21e026aa4586be8d57dffb1532a652d540785",
+      "finalHash": "8b857398baed1d1c4eca020e27a21e026aa4586be8d57dffb1532a652d540785"
+    },
+    {
+      "type": "source_group",
+      "previousCount": 1,
+      "finalCount": 1,
+      "identical": true,
+      "previousHash": "5309bfd3ba159f952091c43b8dea8f3747715ca7347b447a3d7297682ad9e631",
+      "finalHash": "5309bfd3ba159f952091c43b8dea8f3747715ca7347b447a3d7297682ad9e631"
+    },
+    {
+      "type": "source_net",
+      "previousCount": 59,
+      "finalCount": 59,
+      "identical": true,
+      "previousHash": "b3c73c18a837b9565886f7325a09cf4fe2faa9bf1ad4d9ec332dd241f915c3c1",
+      "finalHash": "b3c73c18a837b9565886f7325a09cf4fe2faa9bf1ad4d9ec332dd241f915c3c1"
+    },
+    {
+      "type": "source_port",
+      "previousCount": 394,
+      "finalCount": 394,
+      "identical": true,
+      "previousHash": "0e8b62f0108e0ef29c4ed34ac87241a574da823992d48ef81aab6c36449bef8d",
+      "finalHash": "0e8b62f0108e0ef29c4ed34ac87241a574da823992d48ef81aab6c36449bef8d"
+    },
+    {
+      "type": "source_component",
+      "previousCount": 128,
+      "finalCount": 128,
+      "identical": true,
+      "previousHash": "a2ba61090dbbdb0ed9a8d10d787c9106b7d01d77c6ad7da3d59339a1304ea375",
+      "finalHash": "a2ba61090dbbdb0ed9a8d10d787c9106b7d01d77c6ad7da3d59339a1304ea375"
+    },
+    {
+      "type": "source_manually_placed_via",
+      "previousCount": 4,
+      "finalCount": 4,
+      "identical": true,
+      "previousHash": "a688a246324b41cccc97707de740bd23ceb1f5ee292086a04932154eb70345d1",
+      "finalHash": "a688a246324b41cccc97707de740bd23ceb1f5ee292086a04932154eb70345d1"
+    },
+    {
+      "type": "source_board",
+      "previousCount": 1,
+      "finalCount": 1,
+      "identical": true,
+      "previousHash": "b8320d90ae71825d20ce44f640f32e5ccef99969e712e9ac7397becb97e4cbd5",
+      "finalHash": "b8320d90ae71825d20ce44f640f32e5ccef99969e712e9ac7397becb97e4cbd5"
+    },
+    {
+      "type": "source_component_internal_connection",
+      "previousCount": 4,
+      "finalCount": 4,
+      "identical": true,
+      "previousHash": "03dfbf09d42ed0a8cc6951de508cd1a0438ab843e3eca057d44bf5c5a3346ecc",
+      "finalHash": "03dfbf09d42ed0a8cc6951de508cd1a0438ab843e3eca057d44bf5c5a3346ecc"
+    },
+    {
+      "type": "source_trace",
+      "previousCount": 360,
+      "finalCount": 360,
+      "identical": true,
+      "previousHash": "176f75e076bbec57afc128c4bed52e1770d0bc3438e6f9d597f97e0650d06e46",
+      "finalHash": "176f75e076bbec57afc128c4bed52e1770d0bc3438e6f9d597f97e0650d06e46"
+    },
+    {
+      "type": "schematic_component",
+      "previousCount": 128,
+      "finalCount": 128,
+      "identical": true,
+      "previousHash": "275fe6d3e3f43e0c9f04b482fa5c2d14e0f8768d506c646304b6dda355638d30",
+      "finalHash": "275fe6d3e3f43e0c9f04b482fa5c2d14e0f8768d506c646304b6dda355638d30"
+    },
+    {
+      "type": "schematic_text",
+      "previousCount": 226,
+      "finalCount": 226,
+      "identical": true,
+      "previousHash": "e1d07394c02d3fe8d6285e446f5396e764d5c308470750103fc51b6e7c6509a1",
+      "finalHash": "e1d07394c02d3fe8d6285e446f5396e764d5c308470750103fc51b6e7c6509a1"
+    },
+    {
+      "type": "schematic_group",
+      "previousCount": 1,
+      "finalCount": 1,
+      "identical": true,
+      "previousHash": "4ca655e15fed0e1bdb5a4fde229bd99f82edb71fd96bf960acd638a456d5ce58",
+      "finalHash": "4ca655e15fed0e1bdb5a4fde229bd99f82edb71fd96bf960acd638a456d5ce58"
+    },
+    {
+      "type": "schematic_port",
+      "previousCount": 382,
+      "finalCount": 382,
+      "identical": true,
+      "previousHash": "6ca0e7d33b2acdeb76c8266d1c847af12614371ccccb059effc706ac8f2b09f3",
+      "finalHash": "6ca0e7d33b2acdeb76c8266d1c847af12614371ccccb059effc706ac8f2b09f3"
+    },
+    {
+      "type": "schematic_trace",
+      "previousCount": 237,
+      "finalCount": 237,
+      "identical": true,
+      "previousHash": "9746f23c8160a4498f9478d09cef188e339cf8c96d76f5dfd59b8d4506a93522",
+      "finalHash": "9746f23c8160a4498f9478d09cef188e339cf8c96d76f5dfd59b8d4506a93522"
+    },
+    {
+      "type": "schematic_net_label",
+      "previousCount": 127,
+      "finalCount": 127,
+      "identical": true,
+      "previousHash": "a0b538a80a2ba7685986b0d9270b516b58782df09bea11eafc4aa799e883bc7d",
+      "finalHash": "a0b538a80a2ba7685986b0d9270b516b58782df09bea11eafc4aa799e883bc7d"
+    },
+    {
+      "type": "pcb_component",
+      "previousCount": 132,
+      "finalCount": 132,
+      "identical": true,
+      "previousHash": "e3321ca6aca62836607d2a05eb9eb3a4101bbf89463bfadcba4b6ac62100c136",
+      "finalHash": "e3321ca6aca62836607d2a05eb9eb3a4101bbf89463bfadcba4b6ac62100c136"
+    },
+    {
+      "type": "pcb_board",
+      "previousCount": 1,
+      "finalCount": 1,
+      "identical": false,
+      "previousHash": "02c491a85f55fb6bc337fcaf00faa3782a8c303a17051f6136ebf1c5e9783e7a",
+      "finalHash": "7cac66867b85b2da8835f6f3f4874c27ee29e9aa91aff36927e61638002031a9"
+    },
+    {
+      "type": "pcb_hole",
+      "previousCount": 6,
+      "finalCount": 6,
+      "identical": true,
+      "previousHash": "897e6dd8c357064c27f08343ba5166a8af30ed0a0b6fa1c03fa741cdb3165822",
+      "finalHash": "897e6dd8c357064c27f08343ba5166a8af30ed0a0b6fa1c03fa741cdb3165822"
+    },
+    {
+      "type": "pcb_plated_hole",
+      "previousCount": 12,
+      "finalCount": 12,
+      "identical": true,
+      "previousHash": "bcc1ebfdc85fbd6950f96f63ca5962204b508e02de338043c62c54f62d2eb868",
+      "finalHash": "bcc1ebfdc85fbd6950f96f63ca5962204b508e02de338043c62c54f62d2eb868"
+    },
+    {
+      "type": "pcb_solder_paste",
+      "previousCount": 342,
+      "finalCount": 342,
+      "identical": true,
+      "previousHash": "1d4dfd2f809bb9cefc6aa3719319da3d09edd47d79a2d021016ca64df753aaba",
+      "finalHash": "1d4dfd2f809bb9cefc6aa3719319da3d09edd47d79a2d021016ca64df753aaba"
+    },
+    {
+      "type": "pcb_smtpad",
+      "previousCount": 377,
+      "finalCount": 377,
+      "identical": true,
+      "previousHash": "4f05438d93ffa5a4cc5c33f54de9ad23dd30ea1c23390c1ab9eb5487af36679c",
+      "finalHash": "4f05438d93ffa5a4cc5c33f54de9ad23dd30ea1c23390c1ab9eb5487af36679c"
+    },
+    {
+      "type": "pcb_silkscreen_path",
+      "previousCount": 287,
+      "finalCount": 287,
+      "identical": true,
+      "previousHash": "0e02132061a654dee3201e222b6eb40fada566a2e7108f6e5ed52acdd02cb108",
+      "finalHash": "0e02132061a654dee3201e222b6eb40fada566a2e7108f6e5ed52acdd02cb108"
+    },
+    {
+      "type": "pcb_silkscreen_text",
+      "previousCount": 125,
+      "finalCount": 125,
+      "identical": true,
+      "previousHash": "ac25ae046db472c833f47493302da31abde09dda3fbbe5efdacf9c1d344fa8fa",
+      "finalHash": "ac25ae046db472c833f47493302da31abde09dda3fbbe5efdacf9c1d344fa8fa"
+    },
+    {
+      "type": "pcb_courtyard_outline",
+      "previousCount": 34,
+      "finalCount": 34,
+      "identical": true,
+      "previousHash": "62c5f1206aba33dec7644cb589bfe7f926baa5a6b3a7b9a6ed34fe1f1ad17477",
+      "finalHash": "62c5f1206aba33dec7644cb589bfe7f926baa5a6b3a7b9a6ed34fe1f1ad17477"
+    },
+    {
+      "type": "pcb_silkscreen_circle",
+      "previousCount": 13,
+      "finalCount": 13,
+      "identical": true,
+      "previousHash": "f88c0aaa4292750e2a44a360469f67f1094cc21ce30fc5475c62946e0e515d1b",
+      "finalHash": "f88c0aaa4292750e2a44a360469f67f1094cc21ce30fc5475c62946e0e515d1b"
+    },
+    {
+      "type": "pcb_courtyard_rect",
+      "previousCount": 82,
+      "finalCount": 82,
+      "identical": true,
+      "previousHash": "1b89054cf403a962e9f129ecd324fe7418919de065875739082e7c9bf89a585f",
+      "finalHash": "1b89054cf403a962e9f129ecd324fe7418919de065875739082e7c9bf89a585f"
+    },
+    {
+      "type": "pcb_courtyard_circle",
+      "previousCount": 12,
+      "finalCount": 12,
+      "identical": true,
+      "previousHash": "f4a576a34229f858dadcd91120144656d4ecefd990cf24bd8f10806e0b36f6ee",
+      "finalHash": "f4a576a34229f858dadcd91120144656d4ecefd990cf24bd8f10806e0b36f6ee"
+    },
+    {
+      "type": "pcb_fabrication_note_path",
+      "previousCount": 40,
+      "finalCount": 40,
+      "identical": true,
+      "previousHash": "3d207bbe329159011c86f96ee2d5810d5ac7a47511b75e347fc3f121e78f9482",
+      "finalHash": "3d207bbe329159011c86f96ee2d5810d5ac7a47511b75e347fc3f121e78f9482"
+    },
+    {
+      "type": "pcb_silkscreen_rect",
+      "previousCount": 2,
+      "finalCount": 2,
+      "identical": true,
+      "previousHash": "05c8d05d762ae631a16f4a3fe6f8f35d5e3748208e95221b83efbdff2674f447",
+      "finalHash": "05c8d05d762ae631a16f4a3fe6f8f35d5e3748208e95221b83efbdff2674f447"
+    },
+    {
+      "type": "pcb_via",
+      "previousCount": 204,
+      "finalCount": 204,
+      "identical": true,
+      "previousHash": "07a1b5e9401f225049b4694537f246a1fd4a712a0075d960df28ff67516c1d97",
+      "finalHash": "07a1b5e9401f225049b4694537f246a1fd4a712a0075d960df28ff67516c1d97"
+    },
+    {
+      "type": "pcb_keepout",
+      "previousCount": 4,
+      "finalCount": 4,
+      "identical": true,
+      "previousHash": "6a0189ef1bdd8bdb786d82b80da568dd8cc4e619a740aaf60fcc5fedb1b162dc",
+      "finalHash": "6a0189ef1bdd8bdb786d82b80da568dd8cc4e619a740aaf60fcc5fedb1b162dc"
+    },
+    {
+      "type": "pcb_port",
+      "previousCount": 394,
+      "finalCount": 394,
+      "identical": true,
+      "previousHash": "4f381d9885b5c3bc92ab8fdd7d15724ffed9c649c71161a4be2c7dc078252ed6",
+      "finalHash": "4f381d9885b5c3bc92ab8fdd7d15724ffed9c649c71161a4be2c7dc078252ed6"
+    },
+    {
+      "type": "cad_component",
+      "previousCount": 128,
+      "finalCount": 128,
+      "identical": true,
+      "previousHash": "db2e9967b021e69928fd467f4ea31f2f98df18a18e1e9bb69388e3832e854e01",
+      "finalHash": "db2e9967b021e69928fd467f4ea31f2f98df18a18e1e9bb69388e3832e854e01"
+    },
+    {
+      "type": "pcb_trace",
+      "previousCount": 301,
+      "finalCount": 301,
+      "identical": true,
+      "previousHash": "26cf0f1bfa97abb2593a04f7ef30f8b12f1e2acb1cd1b93be804effde3c0dbb0",
+      "finalHash": "26cf0f1bfa97abb2593a04f7ef30f8b12f1e2acb1cd1b93be804effde3c0dbb0"
+    },
+    {
+      "type": "pcb_copper_pour",
+      "previousCount": 5,
+      "finalCount": 5,
+      "identical": true,
+      "previousHash": "45e303e90c17d6024ebc8ba184a7343938cdfbf9d78a88b2486d6d518954bd7d",
+      "finalHash": "45e303e90c17d6024ebc8ba184a7343938cdfbf9d78a88b2486d6d518954bd7d"
+    },
+    {
+      "type": "source_project_metadata",
+      "previousCount": 1,
+      "finalCount": 1,
+      "identical": false,
+      "previousHash": "7f1900d780775b7c112919533e79d0e9ceede416c1065474b5a5add609e98e0a",
+      "finalHash": "2d935f735727262b127349d98b3267e08808b75ddf1960baa491409b1cabff15"
+    }
+  ]
+}

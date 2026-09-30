@@ -1,0 +1,157 @@
+Building 1 file(s)...
+Building index.circuit.tsx...
+Generating circuit JSON...
+Saved autorouting paths to .tscircuit/autorouting-artifacts/index-circuit-tsx-2e2764dae4/subcircuit_source_group_0-phase-default-order-0.pcb-trace-paths.json (import this JSON into <autoroutingphase pcbTracePaths={...} />).
+Async effect error in PcbDesignRuleChecks "board:drc-checks":
+Error: source_net_36_mst1_0: Unresolved boundary conflict in boolean operation
+    at convertCircuitJsonToFlattenJs (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/checks/dist/index.js:2195:37)
+    at checkCopperPourShorts (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/checks/dist/index.js:2213:32)
+    at runAllRoutingChecks (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/checks/dist/index.js:12553:8)
+    at <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70608:11)
+    at <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70667:15)
+    at _queueAsyncEffect (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:888:16)
+    at updatePcbDesignRuleChecks (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70665:10)
+    at doInitialPcbDesignRuleChecks (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:70554:10)
+    at runRenderPhase (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:1055:24)
+    at runRenderCycle (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:1004:12)
+    at render (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/core/dist/index.js:69400:16)
+    at generateCircuitJson (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:167596:12)
+    at async <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:167703:28)
+    at async <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:182225:38)
+    at async <anonymous> (/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/node_modules/@tscircuit/cli/dist/cli/main.js:182347:15)
+    at processTicksAndRejections (native:7:39)
+Circuit JSON written to dist/index/circuit.json
+The "Q" prefix is being used with a <chip />, try using it with a <transistor />
+The "Q" prefix is being used with a <chip />, try using it with a <transistor />
+The "Q" prefix is being used with a <chip />, try using it with a <transistor />
+Failed to fetch supplier footprint for <connector#59(.usb>.J1) /> (jlcpcb:C3020560): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#241(.usb>.C3) /> (jlcpcb:C77102): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#229(.usb>.C2) /> (jlcpcb:C77102): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#217(.usb>.C1) /> (jlcpcb:C77096): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#204(.usb>.R6) /> (jlcpcb:C273743): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#191(.usb>.R5) /> (jlcpcb:C273767): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#178(.usb>.R4) /> (jlcpcb:C14675): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#165(.usb>.R3) /> (jlcpcb:C141683): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#152(.usb>.R2) /> (jlcpcb:C137736): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#139(.usb>.R1) /> (jlcpcb:C165760): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#92(.usb>.U1) /> (jlcpcb:C22438973): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#88(.usb>.D2) /> (jlcpcb:C1855726): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#80(.usb>.D1) /> (jlcpcb:C523793): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#253(.usb>.C4) /> (jlcpcb:C77096): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#307(.usb>.C8) /> (jlcpcb:C77096): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#295(.usb>.C7) /> (jlcpcb:C77083): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#289(.usb>.U3) /> (jlcpcb:C89347): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#277(.usb>.C6) /> (jlcpcb:C882521): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#265(.usb>.C5) /> (jlcpcb:C882521): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#327(.power>.U2) /> (jlcpcb:C3662793): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#418(.power>.C11) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#406(.power>.C10) /> (jlcpcb:C77053): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#393(.power>.R14) /> (jlcpcb:C482810): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#380(.power>.R13) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#367(.power>.R12) /> (jlcpcb:C163432): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#354(.power>.R11) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#341(.power>.R10) /> (jlcpcb:C14675): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#430(.power>.Q2) /> (jlcpcb:C20917): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#481(.power>.C14) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#469(.power>.C13) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#457(.power>.C12) /> (jlcpcb:C77102): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#447(.power>.U4) /> (jlcpcb:C191884): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#434(.power>.R15) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <inductor#493(.power>.L1) /> (jlcpcb:C2045384): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <resistor#533(.power>.R17) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#520(.power>.R16) /> (jlcpcb:C273767): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#508(.power>.C16) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#496(.power>.C15) /> (jlcpcb:C136280): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#558(.power>.U5) /> (jlcpcb:C3662793): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#634(.power>.C17) /> (jlcpcb:C77053): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#621(.power>.R22) /> (jlcpcb:C482810): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#608(.power>.R21) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#595(.power>.R20) /> (jlcpcb:C14675): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#582(.power>.R19) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#569(.power>.R18) /> (jlcpcb:C482928): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#646(.power>.C18) /> (jlcpcb:C77055): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <chip#670(.bridge>.U6) /> (jlcpcb:C1855818): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#658(.power>.Q3) /> (jlcpcb:C20917): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <connector#693(.bridge>.J2) /> (jlcpcb:C474892): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <resistor#748(.bridge>.R31) /> (jlcpcb:C141684): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#735(.bridge>.R30) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#732(.bridge>.C23) /> (jlcpcb:C401717): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#720(.bridge>.C22) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#708(.bridge>.C21) /> (jlcpcb:C77056): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#696(.bridge>.C20) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#761(.bridge>.R32) /> (jlcpcb:C21190): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <chip#825(.clamp>.U7) /> (jlcpcb:C701880): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#799(.bridge>.R34) /> (jlcpcb:C14675): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#786(.bridge>.R33) /> (jlcpcb:C14675): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#774(.bridge>.C24) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#829(.clamp>.R40) /> (jlcpcb:C99782): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#870(.clamp>.C31) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#857(.clamp>.U8) /> (jlcpcb:C2865059): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#842(.clamp>.C30) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#882(.clamp>.R41) /> (jlcpcb:C137720): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <resistor#946(.clamp>.R45) /> (jlcpcb:C14675): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#933(.clamp>.R44) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#921(.clamp>.C32) /> (jlcpcb:C882521): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#908(.clamp>.R43) /> (jlcpcb:C141684): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#895(.clamp>.R42) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <diode#959(.clamp>.D6) /> (jlcpcb:C260913): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <resistor#972(.clamp>.R72) /> (jlcpcb:C2082768): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#969(.clamp>.R71) /> (jlcpcb:C2082768): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#966(.clamp>.R70) /> (jlcpcb:C2082768): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#962(.clamp>.Q1) /> (jlcpcb:C20917): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#975(.clamp>.R73) /> (jlcpcb:C2082768): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <resistor#987(.clamp>.R77) /> (jlcpcb:C2082768): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#984(.clamp>.R76) /> (jlcpcb:C2082768): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#981(.clamp>.R75) /> (jlcpcb:C2082768): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#978(.clamp>.R74) /> (jlcpcb:C2082768): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#990(.clamp>.R46) /> (jlcpcb:C165753): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#1042(.clamp>.C33) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1029(.clamp>.R48) /> (jlcpcb:C137756): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1016(.clamp>.R47) /> (jlcpcb:C137765): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1003(.clamp>.R78) /> (jlcpcb:C13564): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#1063(.controller>.U9) /> (jlcpcb:C5452432): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#1125(.controller>.C42) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1112(.controller>.R50) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#1100(.controller>.C41) /> (jlcpcb:C77096): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#1088(.controller>.C40) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1137(.controller>.R51) /> (jlcpcb:C108078): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#1189(.controller>.C43) /> (jlcpcb:C77053): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1176(.controller>.R54) /> (jlcpcb:C137756): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1163(.controller>.R53) /> (jlcpcb:C14675): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1150(.controller>.R52) /> (jlcpcb:C108078): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <chip#1201(.controller>.U10) /> (jlcpcb:C7666): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#1233(.controller>.C44) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1220(.controller>.R56) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1207(.controller>.R55) /> (jlcpcb:C14675): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <connector#1248(.controller>.J5) /> (jlcpcb:C265104): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#1295(.controls>.C50) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1282(.controls>.R61) /> (jlcpcb:C14675): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1269(.controls>.R60) /> (jlcpcb:C21190): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <connector#1265(.controls>.J3) /> (jlcpcb:C131339): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <connector#1307(.controls>.J4) /> (jlcpcb:C131339): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#1349(.controls>.C52) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <capacitor#1337(.controls>.C51) /> (jlcpcb:C77055): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1324(.controls>.R63) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1311(.controls>.R62) /> (jlcpcb:C98220): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1365(.controls>.R64) /> (jlcpcb:C21190): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <resistor#1397(.controls>.R66) /> (jlcpcb:C21190): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <led#1394(.controls>.D4) /> (jlcpcb:C125094): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <resistor#1381(.controls>.R65) /> (jlcpcb:C21190): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <led#1378(.controls>.D3) /> (jlcpcb:C125096): Unable to connect. Is the computer able to access the url?
+Failed to fetch supplier footprint for <led#1410(.controls>.D5) /> (jlcpcb:C94869): Was there a typo in the url or port?
+Failed to fetch supplier footprint for <capacitor#546(.power>.C19) /> (jlcpcb:C1671): Unable to connect. Is the computer able to access the url?
+Generating preview images...
+[index] Generating PCB SVG...
+[index] Written pcb.svg
+[index] Generating PCB PNG...
+[index] Written pcb.png
+[index] Generating schematic SVG...
+[index] Written schematic.svg
+
+Build complete
+  Circuits  1 passed
+  Options   pcb-png, pcb-svgs, schematic-svgs
+  Output    dist
+
+✓ Done
+Build exiting with code 0: build finished successfully

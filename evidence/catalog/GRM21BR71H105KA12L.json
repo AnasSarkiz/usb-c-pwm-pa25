@@ -1,0 +1,16 @@
+{
+  "query": "GRM21BR71H105KA12L",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 77083,
+      "mfr": "GRM21BR71H105KA12L",
+      "package": "0805",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "1uF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "stock": 120216,
+      "price": 0.0744
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "query": "SWPA8040S150MT",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 16853,
+      "mfr": "SWPA8040S150MT",
+      "package": "SMD,8x8mm",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "15uH 2.6A 3.4A 47mΩ ±20% SMD,8x8mm Power Inductors ROHS",
+      "stock": 193,
+      "price": 0.1471
+    }
+  ]
+}

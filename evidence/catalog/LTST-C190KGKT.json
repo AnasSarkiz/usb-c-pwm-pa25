@@ -1,0 +1,16 @@
+{
+  "query": "LTST-C190KGKT",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 125094,
+      "mfr": "LTST-C190KGKT",
+      "package": "0603",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-30℃~+85℃ 130° 20mA 2V 35mcd 567.5nm~576.5nm 574nm 75mW Discrete Diode Water Clear Yellow Green 0603 LED Indication - Discrete ROHS",
+      "stock": 357290,
+      "price": 0.0176
+    }
+  ]
+}

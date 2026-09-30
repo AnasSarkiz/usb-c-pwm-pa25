@@ -1,0 +1,37 @@
+{
+	"name": "@tsci/AnasSarkiz.usb-c-pwm-pa25",
+	"version": "0.1.0-prototype.1",
+	"description": "UNVALIDATED PROTOTYPE: USB-C PD 15 V to 12 V PA25 PWM controller with integrated DRV8874; routing checks fail, not for fabrication",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AnasSarkiz/usb-c-pwm-pa25.git"
+	},
+	"homepage": "https://tscircuit.com/AnasSarkiz/usb-c-pwm-pa25",
+	"main": "index.circuit.tsx",
+	"private": true,
+	"keywords": [
+		"tscircuit",
+		"circuit",
+		"pcb",
+		"electronics"
+	],
+	"scripts": {
+		"dev": "tsci dev",
+		"build": "tsci build",
+		"snapshot": "tsci snapshot",
+		"start": "tsci dev",
+		"typecheck": "tsc --noEmit",
+		"format": "biome format --write package.json tsconfig.json tscircuit.config.json index.circuit.tsx lib imports tests",
+		"format:check": "biome format package.json tsconfig.json tscircuit.config.json index.circuit.tsx lib imports tests",
+		"test": "bun test",
+		"firmware:test": "make -C firmware test",
+		"firmware:build": "make -C firmware all"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.5.14",
+		"@types/bun": "1.3.9",
+		"tscircuit": "0.0.2679",
+		"typescript": "5.9.3"
+	},
+	"author": "AnasSarkiz"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "LM393BIDR",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 2865059,
+      "mfr": "LM393BIDR",
+      "package": "SOIC-8",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+85℃ 0.5nA 1us 1us 2 2V~36V 3.5nA 36V 370uV 400uA ESD protection Open-drain TTL、CMOS SOIC-8 Comparators ROHS",
+      "stock": 82085,
+      "price": 0.1263
+    }
+  ]
+}

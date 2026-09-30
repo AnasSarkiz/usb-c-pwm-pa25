@@ -1,0 +1,71 @@
+{
+  "query": "B3B-PH-K-S(LF)(SN)",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 131339,
+      "mfr": "B3B-PH-K-S(LF)(SN)",
+      "package": "插件,P=2mm",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-25℃~+85℃ 1 100V 1x3P 2A 2mm 3 3P 4.5mm 6mm 7.9mm Brass K Pin PA66 PH Through Hole Tin UL94V-0 White 插件,P=2mm Wire To Board Connector ROHS",
+      "stock": 214823,
+      "price": 0.0415
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5305733,
+      "mfr": "B3B-PH-K-K(LF)(SN)",
+      "package": "插件,P=2mm",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 36558,
+      "price": 0.0772
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5305782,
+      "mfr": "B3B-PH-K-R(LF)(SN)",
+      "package": "插件,P=2mm",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-25℃~+85℃ 1 100V 1x3P 2A 2mm 3 3P 4.5mm 6mm 7.9mm Brass K Pin PA66 PH Red Through Hole Tin UL94V-0 插件,P=2mm Wire To Board Connector ROHS",
+      "stock": 24680,
+      "price": 0.0535
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 158004,
+      "mfr": "B3B-PH-KL(LF)(SN)",
+      "package": "插件,P=2mm",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 20911,
+      "price": 0.0804
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 160353,
+      "mfr": "B3B-PH-SM4-TB(LF)(SN)",
+      "package": "SMD,P=2mm",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-25℃~+85℃ 1 100V 1x3P 2A 2mm 3 3P 6.6mm 7mm 9.95mm Auxiliary Solder Pin Beige Copper alloy PA PH Surface Mount,Vertical Tin UL94V-0 SMD,P=2mm Wire To Board Connector ROHS",
+      "stock": 7740,
+      "price": 0.2499
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 265082,
+      "mfr": "B3B-PH-SM4-TBT(LF)(SN)",
+      "package": "SMD,P=2mm",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-25℃~+85℃ 1 100V 1x3P 2A 2mm 3 3P 6.6mm 7mm 9.95mm Auxiliary Solder Pin Beige Copper alloy PA PH Surface Mount,Vertical Tin UL94V-0 SMD,P=2mm Wire To Board Connector ROHS",
+      "stock": 1757,
+      "price": 0.5955
+    }
+  ]
+}

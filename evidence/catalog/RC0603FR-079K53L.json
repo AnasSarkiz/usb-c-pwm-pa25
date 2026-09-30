@@ -1,0 +1,16 @@
+{
+  "query": "RC0603FR-079K53L",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 273743,
+      "mfr": "RC0603FR-079K53L",
+      "package": "0603",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 100mW 75V 9.53kΩ Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "stock": 309,
+      "price": 0.0024
+    }
+  ]
+}

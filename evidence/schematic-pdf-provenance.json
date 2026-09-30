@@ -1,0 +1,7 @@
+{
+  "twoLayer": "2de211939cd63db078343622f754429c639645f369a968ed0802bf2447bf29f2",
+  "fourLayer": "2de211939cd63db078343622f754429c639645f369a968ed0802bf2447bf29f2",
+  "identical": true,
+  "pdf": "output/pdf/pa25-a1-schematic.pdf",
+  "note": "PDF was rendered and all six pages visually inspected before the PCB-only layer change; these source and schematic records verify continued applicability."
+}

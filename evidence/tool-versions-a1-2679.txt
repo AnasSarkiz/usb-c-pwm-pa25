@@ -1,0 +1,4 @@
+tscircuit: 0.0.2679
+@tscircuit/cli: 0.1.2193
+@tscircuit/runframe: 0.0.2848
+@tscircuit/core: 0.0.2016

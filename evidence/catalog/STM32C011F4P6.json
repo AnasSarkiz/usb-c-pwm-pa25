@@ -1,0 +1,27 @@
+{
+  "query": "STM32C011F4P6",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 7373263,
+      "mfr": "STM32C011F4P6TR",
+      "package": "TSSOP-20",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+85℃ 12bit 16KB 18 2V~3.6V 32 Bit 48MHz 6KB ARM Cortex-M0+ Built-in+External FLASH TSSOP-20 Microcontrollers (MCU/MPU/SOC) ROHS",
+      "stock": 6765,
+      "price": 0.8268
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5452432,
+      "mfr": "STM32C011F4P6",
+      "package": "TSSOP-20",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+85℃ 16KB 18 2V~3.6V 32 Bit 48MHz 6KB ARM Cortex-M0+ Built-in+External FLASH TSSOP-20 Microcontrollers (MCU/MPU/SOC) ROHS",
+      "stock": 1268,
+      "price": 0.9609
+    }
+  ]
+}

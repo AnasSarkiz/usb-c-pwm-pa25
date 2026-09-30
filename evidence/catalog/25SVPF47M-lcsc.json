@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-30",
+  "url": "https://www.lcsc.com/product-detail/C136280.html",
+  "mpn": "25SVPF47M",
+  "lcsc": "C136280",
+  "stock": 1440,
+  "source": "LCSC public product page; retrieved using web tool",
+  "assembly_class": "JLCPCB catalog search returned no result; consigned part or hand solder C15",
+  "capacitance_uf": 47,
+  "voltage_v": 25,
+  "tolerance_percent": 20,
+  "esr_milliohm": 30,
+  "ripple_current_a": 2.8
+}

@@ -1,0 +1,27 @@
+{
+  "query": "TPS70933DBVR",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 89347,
+      "mfr": "TPS70933DBVR",
+      "package": "SOT-23-5",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+125℃@(Tj) 1 1.4uA 150mA 190uVrms 3.3V 30V 80dB@(10Hz) 960mV@(150mA) Fixed Positive Under Voltage Lockout、Over Current Protection、Over Temperature Protection、Enable SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS",
+      "stock": 36250,
+      "price": 0.1777
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 2937032,
+      "mfr": "TPS70933DBVR-TP",
+      "package": "SOT-23-5",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+85℃@(Ta) 1 200mA 2uA 3.3V 36V 70dB@(100Hz) 750mV@(100mA) Fixed Over Current Protection、Over Temperature Protection、Enable Positive SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS",
+      "stock": 2447,
+      "price": 0.2386
+    }
+  ]
+}

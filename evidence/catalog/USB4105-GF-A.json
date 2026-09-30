@@ -1,0 +1,38 @@
+{
+  "query": "USB4105-GF-A",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 3020560,
+      "mfr": "USB4105-GF-A",
+      "package": "SMD",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+85℃ 1 12P 48V 5A Black Female Surface Mount, Right Angle Type-C USB 2.0 SMD USB Connectors ROHS",
+      "stock": 11505,
+      "price": 1.0319
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5184243,
+      "mfr": "USB4105-GF-A-120",
+      "package": "SMD",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+85℃ 1 16P 48V 5A Black Female Type-C USB 2.0 SMD USB Connectors ROHS",
+      "stock": 4592,
+      "price": 0.9802
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 3025063,
+      "mfr": "USB4105-GF-A-060",
+      "package": "SMD",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+85℃ 1 12P 48V 5A Black Female Surface Mount, Right Angle Type-C USB 2.0 SMD USB Connectors ROHS",
+      "stock": 2379,
+      "price": 1.0691
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "query": "AO3400A",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 20917,
+      "mfr": "AO3400A",
+      "package": "SOT-23",
+      "is_basic": true,
+      "is_preferred": false,
+      "description": "-55℃~+150℃ 1 N-channel 1.45V 1.4W 30V 48mΩ@2.5V 5.7A 50pF 630pF 75pF 7nC@10V N-Channel SOT-23 MOSFETs ROHS",
+      "stock": 1535925,
+      "price": 0.0846
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 347475,
+      "mfr": "AO3400A",
+      "package": "SOT-23",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+150℃ 1 N-channel 1.1V 1.4W 17mΩ@10V 30V 5.8A 77pF 823pF 9.7nC@4.5V 99pF SOT-23 MOSFETs ROHS",
+      "stock": 1080486,
+      "price": 0.0327
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 344010,
+      "mfr": "AO3400A",
+      "package": "SOT-23",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+150℃ 1 N-channel 1.4V 1.4W 30V 32mΩ@10V 5.8A 823pF SOT-23 MOSFETs ROHS",
+      "stock": 211566,
+      "price": 0.0607
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 49195711,
+      "mfr": "AO3400A",
+      "package": "SOT-23",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 69514,
+      "price": 0.0233
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5296724,
+      "mfr": "AO3400A",
+      "package": "SOT-23-3L",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+150℃ 1 N-channel 1.03nF 1.4W 12nC@10V 1V 30V 5.8A 52mΩ@2.5V 77pF SOT-23-3L MOSFETs ROHS",
+      "stock": 34418,
+      "price": 0.0396
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 19632011,
+      "mfr": "AO3400A-MS",
+      "package": "SOT-23",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+125℃ 1 N-channel 1.56W 20mΩ@10V 30V 36pF 45pF 5.8A 695pF 8.4nC@4.5V 900mV SOT-23 MOSFETs ROHS",
+      "stock": 33049,
+      "price": 0.0254
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 48678023,
+      "mfr": "AO3400A",
+      "package": "SOT-23",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 28057,
+      "price": 0.0277
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 700953,
+      "mfr": "AO3400A",
+      "package": "SOT-23",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+150℃ 1 N-channel 11.7nC@4.5V 1W 27mΩ@4.5V 30V 5.2A 61pF 850mV 927pF SOT-23 MOSFETs ROHS",
+      "stock": 26216,
+      "price": 0.0412
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 49452344,
+      "mfr": "AO3400AL",
+      "package": "SOT-23",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+150℃ 1 N-channel 1.1V 1.25W 22mΩ@10V 30V 5.8A 550pF 57pF 72pF 9nC@4.5V SOT-23 MOSFETs ROHS",
+      "stock": 23565,
+      "price": 0.0181
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 21713968,
+      "mfr": "AO3400A",
+      "package": "SOT-23-3L",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+150℃ 1 N-channel 1.05nF 1.4V 1.5W 30V 5.8A 52mΩ@2.5V 77pF N-Channel SOT-23-3L MOSFETs ROHS",
+      "stock": 22587,
+      "price": 0.0344
+    }
+  ]
+}

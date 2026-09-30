@@ -1,0 +1,93 @@
+{
+  "query": "SN74LVC1G08DBVR",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 7666,
+      "mfr": "SN74LVC1G08DBVR",
+      "package": "SOT-23-5",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+125℃ 1 1.2V、1.9V、2.3V、3.8V 1.65V~5.5V 1.7V、2V 10uA 2 300mV、450mV、550mV 32mA 32mA 4ns@5V,50pF 700mV、800mV 74LVC Series AND Gate Overvoltage-tolerant input、Rear drive protection、Level shifting、Local shutdown mode、Live insertion protection SOT-23-5 Logic Gates ROHS",
+      "stock": 232163,
+      "price": 0.0497
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 434068,
+      "mfr": "SN74LVC1G08DBVR(UMW)",
+      "package": "SOT-23-5",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+105℃ 1 1.65V~5.5V 1.7V 10ns@5V,15pF 10uA 2 32mA 32mA 74LVC Series AND Gate SOT-23-5 Logic Gates ROHS",
+      "stock": 87726,
+      "price": 0.0393
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 19829660,
+      "mfr": "SN74LVC1G08DBVR",
+      "package": "SOT-23-5",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+125℃ 1.65V~5.5V 10uA 2 2 24mA 24mA 74LVC AND Gate SOT-23-5 Logic Gates ROHS",
+      "stock": 10267,
+      "price": 0.0288
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 22396399,
+      "mfr": "HSN74LVC1G08DBVR",
+      "package": "SOT-23-5L",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "1 1.47V、1.64V、2.15V、2.73V、4V 1.65V~5.5V 10mV、110mV、110mV、200mV、350mV 10ns@5V,15pF 10uA 2 32mA 32mA 74LVC AND Gate SOT-23-5L Logic Gates ROHS",
+      "stock": 4282,
+      "price": 0.0482
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 7421707,
+      "mfr": "SN74LVC1G08DBVR-JSM",
+      "package": "SOT-23-5",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "1 1.47V、1.64V、2.15V、2.73V、4V 1.65V~5.5V 1.7V 10mV、110mV、200mV、350mV 10ns@5V,15pF 10uA 2 32mA 32mA 74LVC AND Gate SOT-23-5 Logic Gates ROHS",
+      "stock": 3098,
+      "price": 0.0441
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5250997,
+      "mfr": "SN74LVC1G08DBVR",
+      "package": "SOT-23-5",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "1 1.65V~5.5V 100nA 2 3.4ns@5V,15pF 32mA 32mA 350mV 4V 74LVC AND Gate Local shutdown mode SOT-23-5 Logic Gates ROHS",
+      "stock": 1029,
+      "price": 0.0537
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5452097,
+      "mfr": "SN74LVC1G08DBVRE4",
+      "package": "SOT-23-5",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+125℃ 1 1.65V~5.5V 10uA 32mA 32mA 4ns@5V,50pF 74LVC Series AND Gate Overvoltage-tolerant input、Rear drive protection、Local shutdown mode、Live insertion protection SOT-23-5 Logic Gates ROHS",
+      "stock": 990,
+      "price": 0.0403
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 7434173,
+      "mfr": "SN74LVC1G08DBVR-MS",
+      "package": "SOT-23-5",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 518,
+      "price": 0.0556
+    }
+  ]
+}

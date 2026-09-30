@@ -1,0 +1,16 @@
+{
+  "query": "C260913",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 260913,
+      "mfr": "BZT52C9V1-7-F",
+      "package": "SOD-123",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-65℃~+150℃ 1 Independent 100Ω 15Ω 370mW 500nA 8.5V~9.6V 9.1V SOD-123 Zener Diodes ROHS",
+      "stock": 1349,
+      "price": 0.0461
+    }
+  ]
+}

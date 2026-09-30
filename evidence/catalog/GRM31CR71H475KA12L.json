@@ -1,0 +1,16 @@
+{
+  "query": "GRM31CR71H475KA12L",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 77096,
+      "mfr": "GRM31CR71H475KA12L",
+      "package": "1206",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "4.7uF 50V X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "stock": 18619,
+      "price": 0.1486
+    }
+  ]
+}

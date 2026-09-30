@@ -1,0 +1,16 @@
+{
+  "query": "EEEFK1E471AP",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 401717,
+      "mfr": "EEEFK1E471AP",
+      "package": "SMD,D10xL10.2mm",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+105℃ 10.5mm 10mm 2000hrs@105℃ 25V 470uF 552.5mA@120Hz ±20% SMD,D10xL10.2mm Aluminum Electrolytic Capacitors - SMD ROHS",
+      "stock": 201,
+      "price": 0.4653
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "query": "LTST-C190KRKT",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 94869,
+      "mfr": "LTST-C190KRKT",
+      "package": "0603",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-30℃~+85℃ 130° 20mA 2V 62.5mW 631nm 639nm 99mcd Discrete Diode Red Water Clear 0603 LED Indication - Discrete ROHS",
+      "stock": 6,
+      "price": 0.0197
+    }
+  ]
+}

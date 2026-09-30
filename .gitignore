@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+firmware/toolchain/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# tscircuit cache
+.tscircuit/
+
+# Local research, packaging and development state
+.publication/
+.claude/
+.npmrc
+references/*
+!references/README.md
+evidence/*
+output/*.zip
+output/*.zip.sha256
+output/A1-review-manifest.sha256
+checks/
+firmware/vendor/

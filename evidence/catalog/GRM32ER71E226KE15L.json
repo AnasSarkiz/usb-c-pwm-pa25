@@ -1,0 +1,16 @@
+{
+  "query": "GRM32ER71E226KE15L",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 21397,
+      "mfr": "GRM32ER71E226KE15L",
+      "package": "1210",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 16741,
+      "price": 0.3433
+    }
+  ]
+}

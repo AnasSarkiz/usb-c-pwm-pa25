@@ -1,0 +1,49 @@
+{
+  "query": "TVS2200DRVR",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 42400188,
+      "mfr": "ESTVS2200DRVR",
+      "package": "DFN-6-EP(2x2)",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 6705,
+      "price": 0.2113
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 49383415,
+      "mfr": "TVS2200DRVR(ES)",
+      "package": "DFN2020-6L",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 2970,
+      "price": 0.3229
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 523793,
+      "mfr": "TVS2200DRVR",
+      "package": "WSON-6-EP(2x2)",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+125℃ 1.12kW@8/20us 105pF 22V 25.9V 27.7V 3.5nA 40A@8/20us IEC 61000-4-2、IEC 61000-4-5 TVS Unidirectional WSON-6-EP(2x2) ESD and Surge Protection (TVS/ESD) ROHS",
+      "stock": 871,
+      "price": 0.31
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 49330883,
+      "mfr": "LMTVS2200DRVR",
+      "package": "DFN2X2-6L",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "DFN2X2-6L Surge Protection Devices (SPDs) ROHS",
+      "stock": 125,
+      "price": 0.2381
+    }
+  ]
+}

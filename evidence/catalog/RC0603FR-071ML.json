@@ -1,0 +1,16 @@
+{
+  "query": "RC0603FR-071ML",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 105578,
+      "mfr": "RC0603FR-071ML",
+      "package": "0603",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 100mW 1MΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "stock": 97812,
+      "price": 0.0021
+    }
+  ]
+}

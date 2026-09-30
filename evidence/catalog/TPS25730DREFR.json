@@ -1,0 +1,16 @@
+{
+  "query": "TPS25730DREFR",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 22438973,
+      "mfr": "TPS25730DREFR",
+      "package": "QFN-38(4X6)",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "QFN-38(4X6) USB PD ROHS",
+      "stock": 878,
+      "price": 2.96
+    }
+  ]
+}

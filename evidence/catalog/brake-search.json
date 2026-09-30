@@ -1,0 +1,115 @@
+{
+  "query": "2512 200 2W",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 5713424,
+      "mfr": "FRP2512F1R00TS",
+      "package": "2512",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 1Ω 200V 2W Thick Film Resistor ±1% ±200ppm/℃ 2512 Chip Resistor - Surface Mount ROHS",
+      "stock": 357774,
+      "price": 0.0424
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5126189,
+      "mfr": "FRP2512F1000TS",
+      "package": "2512",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 100Ω 200V 2W Thick Film Resistor ±1% ±200ppm/℃ 2512 Chip Resistor - Surface Mount ROHS",
+      "stock": 300519,
+      "price": 0.0509
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5154009,
+      "mfr": "FRP2512J241TS",
+      "package": "2512",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 200V 240Ω 2W Thick Film Resistor ±200ppm/℃ ±5% 2512 Chip Resistor - Surface Mount ROHS",
+      "stock": 153896,
+      "price": 0.0336
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 2765767,
+      "mfr": "HP122WF2000T4E",
+      "package": "2512",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 200Ω 2W 300V Thick Film Resistor ±1% ±75ppm/℃ 2512 Chip Resistor - Surface Mount ROHS",
+      "stock": 126659,
+      "price": 0.1398
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5204052,
+      "mfr": "FRP2512F0000TS",
+      "package": "2512",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 0Ω 200V 2W Thick Film Resistor ±1% ±200ppm/℃ 2512 Chip Resistor - Surface Mount ROHS",
+      "stock": 76721,
+      "price": 0.0467
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5204053,
+      "mfr": "FRP2512F1500TS",
+      "package": "2512",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 150Ω 200V 2W Thick Film Resistor ±1% ±200ppm/℃ 2512 Chip Resistor - Surface Mount ROHS",
+      "stock": 70033,
+      "price": 0.0475
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5713429,
+      "mfr": "FRP2512J330 TS",
+      "package": "2512",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 200V 2W 33Ω Thick Film Resistor ±200ppm/℃ ±5% 2512 Chip Resistor - Surface Mount ROHS",
+      "stock": 64906,
+      "price": 0.0401
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5204054,
+      "mfr": "FRP2512F22R0TS",
+      "package": "2512",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 200V 22Ω 2W Thick Film Resistor ±1% ±200ppm/℃ 2512 Chip Resistor - Surface Mount ROHS",
+      "stock": 63110,
+      "price": 0.0478
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 3013385,
+      "mfr": "FRP2512J100 TS",
+      "package": "2512",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 10Ω 200V 2W Thick Film Resistor ±200ppm/℃ ±5% 2512 Chip Resistor - Surface Mount ROHS",
+      "stock": 55951,
+      "price": 0.0377
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 2941595,
+      "mfr": "RMH25FE1R00",
+      "package": "2512",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 1Ω 200V 2W Thick Film Resistor ±1% ±400ppm/℃ 2512 Chip Resistor - Surface Mount ROHS",
+      "stock": 46021,
+      "price": 0.0386
+    }
+  ]
+}

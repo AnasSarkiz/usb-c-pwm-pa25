@@ -1,0 +1,16 @@
+{
+  "query": "DRV8874PWPR",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 1855818,
+      "mfr": "DRV8874PWPR",
+      "package": "HTSSOP-16-EP",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+125℃ 1 200mΩ 750nA 9A Yes HTSSOP-16-EP Brushed DC Motor Drivers ROHS",
+      "stock": 10589,
+      "price": 1.1161
+    }
+  ]
+}

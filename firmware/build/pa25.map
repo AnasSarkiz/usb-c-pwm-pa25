@@ -1,0 +1,801 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+                              /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o (__gnu_thumb1_case_uqi)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+                              /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o (__aeabi_uidiv)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+                              /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o (__aeabi_idiv)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-exit.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fwalk.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-memset.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-init.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-impure.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o) (_impure_data)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o) (_malloc_r)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fflush.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o) (_fflush_r)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mlock.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o) (__malloc_lock)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o) (__sread)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lseekr.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o) (_lseek_r)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-readr.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o) (_read_r)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o) (_sbrk_r)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-writer.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o) (_write_r)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-closer.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o) (_close_r)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-reent.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lseekr.o) (errno)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-freer.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fflush.o) (_free_r)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(close.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-closer.o) (_close)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(lseek.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lseekr.o) (_lseek)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(read.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-readr.o) (_read)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-sbrkr.o) (_sbrk)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(write.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-writer.o) (_write)
+/Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+                              /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crti.o
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00000000       0x80 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .debug_line_str
+                0x00000000       0xdb /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .text          0x00000000        0x0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .data          0x00000000        0x0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .bss           0x00000000        0x0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .text          0x00000000        0x0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .data          0x00000000        0x0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .bss           0x00000000        0x0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_macro   0x00000000      0xaae /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_macro   0x00000000       0x22 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_macro   0x00000000       0x22 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_macro   0x00000000       0x56 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_macro   0x00000000       0x51 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_macro   0x00000000      0x103 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_macro   0x00000000       0x6a /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_macro   0x00000000      0x1df /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .group         0x00000000        0xc /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .text          0x00000000        0x0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .data          0x00000000        0x0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .bss           0x00000000        0x0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .rodata.APBPrescTable
+                0x00000000       0x20 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000      0xaae /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000       0x28 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000       0x22 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000       0x56 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000       0x51 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000      0x103 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000       0x6a /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000      0x1df /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000       0x1c /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000       0x22 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000       0xd1 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000      0x4da /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000      0x11f /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x00000000     0x8f6f /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .text          0x00000000       0x14 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+ .data          0x00000000        0x0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+ .bss           0x00000000        0x0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .text          0x00000000      0x1d4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000       0x20 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .debug_line_str
+                0x00000000       0xd2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000       0x1e /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x28 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000000       0x28 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x1c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x3c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x3c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000       0x10 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000       0x10 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa8 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000000      0x138 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x38 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x100 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x50 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x10c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x56 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x30 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x68 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000       0x10 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000       0x10 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x40 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x28 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0xc /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x90 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x28 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x28 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x28 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x24 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xd4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(close.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(close.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(close.o)
+ .text._close   0x00000000       0x10 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(close.o)
+ .gnu.warning._close
+                0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(close.o)
+ .debug_frame   0x00000000       0x20 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(close.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(close.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(lseek.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(lseek.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(lseek.o)
+ .text._lseek   0x00000000       0x10 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(lseek.o)
+ .gnu.warning._lseek
+                0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(lseek.o)
+ .debug_frame   0x00000000       0x20 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(lseek.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(lseek.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(read.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(read.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(read.o)
+ .text._read    0x00000000       0x10 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(read.o)
+ .gnu.warning._read
+                0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(read.o)
+ .debug_frame   0x00000000       0x20 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(read.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(read.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x1c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .debug_frame   0x00000000       0x20 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(write.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(write.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(write.o)
+ .text._write   0x00000000       0x10 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(write.o)
+ .gnu.warning._write
+                0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(write.o)
+ .debug_frame   0x00000000       0x20 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(write.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(write.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtn.o
+ .data          0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x00000000        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00004000         xr
+RAM              0x20000000         0x00001800         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crti.o
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+LOAD /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+LOAD /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+LOAD /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+START GROUP
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a
+END GROUP
+START GROUP
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a
+END GROUP
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtend.o
+LOAD /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtn.o
+                0x20001800                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+
+.isr_vector     0x08000000       0xc0
+ *(.isr_vector)
+ .isr_vector    0x08000000       0xc0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+                0x08000000                g_pfnVectors
+
+.eh_frame       0x080000c0        0x0
+ .eh_frame      0x080000c0        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.text           0x080000c0      0xb78
+ *(.text*)
+ .text.deregister_tm_clones
+                0x080000c0       0x20 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text.register_tm_clones
+                0x080000e0       0x28 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x08000108       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text.frame_dummy
+                0x08000134       0x24 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text.i2c_wait
+                0x08000158       0x3c /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .text.pd_read  0x08000194       0x8c /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .text.adc_read
+                0x08000220       0x58 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .text.SysTick_Handler
+                0x08000278       0x10 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+                0x08000278                SysTick_Handler
+ .text.startup.main
+                0x08000288      0x4a0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+                0x08000288                main
+ .text.controller_fault
+                0x08000728       0x14 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+                0x08000728                controller_fault
+ .text.pd_contract_valid
+                0x0800073c       0x60 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+                0x0800073c                pd_contract_valid
+ .text.controller_tick
+                0x0800079c      0x20c /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+                0x0800079c                controller_tick
+ .text.SystemInit
+                0x080009a8       0x10 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+                0x080009a8                SystemInit
+ .text.SystemCoreClockUpdate
+                0x080009b8       0x50 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+                0x080009b8                SystemCoreClockUpdate
+ .text.Reset_Handler
+                0x08000a08       0x50 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+                0x08000a08                Reset_Handler
+ .text.Default_Handler
+                0x08000a58        0x2 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+                0x08000a58                TIM1_BRK_UP_TRG_COM_IRQHandler
+                0x08000a58                HardFault_Handler
+                0x08000a58                PendSV_Handler
+                0x08000a58                NMI_Handler
+                0x08000a58                I2C1_IRQHandler
+                0x08000a58                DMAMUX1_IRQHandler
+                0x08000a58                SPI1_IRQHandler
+                0x08000a58                EXTI2_3_IRQHandler
+                0x08000a58                ADC1_IRQHandler
+                0x08000a58                TIM17_IRQHandler
+                0x08000a58                RTC_IRQHandler
+                0x08000a58                TIM16_IRQHandler
+                0x08000a58                TIM3_IRQHandler
+                0x08000a58                EXTI4_15_IRQHandler
+                0x08000a58                RCC_IRQHandler
+                0x08000a58                DMA1_Channel1_IRQHandler
+                0x08000a58                Default_Handler
+                0x08000a58                TIM14_IRQHandler
+                0x08000a58                EXTI0_1_IRQHandler
+                0x08000a58                SVC_Handler
+                0x08000a58                WWDG_IRQHandler
+                0x08000a58                DMA1_Channel2_3_IRQHandler
+                0x08000a58                USART2_IRQHandler
+                0x08000a58                FLASH_IRQHandler
+                0x08000a58                USART1_IRQHandler
+                0x08000a58                TIM1_CC_IRQHandler
+ *fill*         0x08000a5a        0x2 
+ .text          0x08000a5c       0x14 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+                0x08000a5c                __gnu_thumb1_case_uqi
+ .text          0x08000a70      0x114 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+                0x08000a70                __udivsi3
+                0x08000a70                __aeabi_uidiv
+                0x08000b7c                __aeabi_uidivmod
+ .text          0x08000b84        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                0x08000b84                __aeabi_ldiv0
+                0x08000b84                __aeabi_idiv0
+ .text.memset   0x08000b88       0x10 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-memset.o)
+                0x08000b88                memset
+ .text.__libc_init_array
+                0x08000b98       0x48 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-init.o)
+                0x08000b98                __libc_init_array
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x08000be0       0x40 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+                0x08000be0                AHBPrescTable
+ *(.init)
+ .init          0x08000c20        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crti.o
+                0x08000c20                _init
+ .init          0x08000c24        0x8 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08000c2c        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crti.o
+                0x08000c2c                _fini
+ .fini          0x08000c30        0x8 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtn.o
+
+.glue_7         0x08000c38        0x0
+ .glue_7        0x08000c38        0x0 linker stubs
+
+.glue_7t        0x08000c38        0x0
+ .glue_7t       0x08000c38        0x0 linker stubs
+
+.vfp11_veneer   0x08000c38        0x0
+ .vfp11_veneer  0x08000c38        0x0 linker stubs
+
+.v4_bx          0x08000c38        0x0
+ .v4_bx         0x08000c38        0x0 linker stubs
+
+.iplt           0x08000c38        0x0
+ .iplt          0x08000c38        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x08000c38        0x0
+                0x08000c38                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x08000c38                        __exidx_end = .
+
+.preinit_array  0x08000c38        0x0
+                0x08000c38                        __preinit_array_start = .
+ *(.preinit_array*)
+                0x08000c38                        __preinit_array_end = .
+
+.init_array     0x08000c38        0x4
+                0x08000c38                        __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08000c38        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x08000c3c                        __init_array_end = .
+
+.fini_array     0x08000c3c        0x4
+                0x08000c3c                        __fini_array_start = .
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08000c3c        0x4 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x08000c40                        __fini_array_end = .
+                0x08000c40                        _sidata = LOADADDR (.data)
+
+.rel.dyn        0x08000c40        0x0
+ .rel.iplt      0x08000c40        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.data           0x20000000        0x4 load address 0x08000c40
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+                0x20000000                SystemCoreClock
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        _edata = .
+
+.tm_clone_table
+                0x20000004        0x0 load address 0x08000c44
+ .tm_clone_table
+                0x20000004        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .tm_clone_table
+                0x20000004        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtend.o
+
+.igot.plt       0x20000004        0x0 load address 0x08000c44
+ .igot.plt      0x20000004        0x0 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.bss            0x20000004       0x24 load address 0x08000c44
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        _sbss = .
+ *(.bss*)
+ .bss.completed.1
+                0x20000004        0x1 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ *fill*         0x20000005        0x3 
+ .bss.object.0  0x20000008       0x18 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .bss.bridge_wake_ticks
+                0x20000020        0x2 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ *fill*         0x20000022        0x2 
+ .bss.milliseconds
+                0x20000024        0x4 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ *(COMMON)
+                0x20000028                        . = ALIGN (0x4)
+                0x20000028                        _ebss = .
+
+.heap_stack     0x20000028      0x600 load address 0x08000c44
+                0x20000028                        . = ALIGN (0x8)
+                0x20000028                        end = .
+                0x20000028                        _end = .
+                0x20000628                        . = (. + 0x600)
+ *fill*         0x20000028      0x600 
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(build/pa25.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1e /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2c /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .ARM.attributes
+                0x00000076       0x2c /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .ARM.attributes
+                0x000000a2       0x2c /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .ARM.attributes
+                0x000000ce       0x22 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+ .ARM.attributes
+                0x000000f0       0x1e /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x0000010e       0x1e /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000012c       0x1e /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000014a       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000176       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x000001a2       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x000001ce       0x1e /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/crtn.o
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .comment       0x00000045       0x46 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+
+.debug_info     0x00000000     0x1fc3
+ .debug_info    0x00000000     0x1535 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_info    0x00001535      0x6e6 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_info    0x00001c1b      0x378 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_info    0x00001f93       0x30 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+
+.debug_abbrev   0x00000000      0x790
+ .debug_abbrev  0x00000000      0x444 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_abbrev  0x00000444      0x1fa /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_abbrev  0x0000063e      0x12e /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_abbrev  0x0000076c       0x24 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+
+.debug_loclists
+                0x00000000      0x79d
+ .debug_loclists
+                0x00000000      0x361 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_loclists
+                0x00000361      0x405 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_loclists
+                0x00000766       0x37 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+
+.debug_aranges  0x00000000       0xc0
+ .debug_aranges
+                0x00000000       0x40 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_aranges
+                0x00000040       0x30 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_aranges
+                0x00000070       0x28 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_aranges
+                0x00000098       0x28 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+
+.debug_rnglists
+                0x00000000      0x20a
+ .debug_rnglists
+                0x00000000      0x15c /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_rnglists
+                0x0000015c       0x7c /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_rnglists
+                0x000001d8       0x19 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_rnglists
+                0x000001f1       0x19 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+
+.debug_macro    0x00000000     0xa83e
+ .debug_macro   0x00000000       0xc8 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x000000c8      0xaae /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x00000b76       0x28 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x00000b9e       0x22 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x00000bc0       0x56 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x00000c16       0x51 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x00000c67      0x103 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x00000d6a       0x6a /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x00000dd4      0x1df /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x00000fb3       0x1c /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x00000fcf       0x22 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x00000ff1       0xd1 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x000010c2      0x4da /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x0000159c      0x11f /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x000016bb     0x8f6f /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x0000a62a       0x22 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_macro   0x0000a64c       0x76 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_macro   0x0000a6c2       0xe1 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x0000a7a3       0x2e /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_macro   0x0000a7d1       0x6d /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+
+.debug_line     0x00000000     0x1c65
+ .debug_line    0x00000000      0xe54 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_line    0x00000e54      0x86d /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_line    0x000016c1      0x527 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_line    0x00001be8       0x7d /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+
+.debug_str      0x00000000    0x3b276
+ .debug_str     0x00000000    0x3b276 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+                              0x3ac57 (size before relaxing)
+ .debug_str     0x0003b276     0x3fb4 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_str     0x0003b276    0x3aabe /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_str     0x0003b276       0xd7 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+
+.debug_frame    0x00000000      0x194
+ .debug_frame   0x00000000       0xa0 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cc85CHf7.o
+ .debug_frame   0x000000a0       0x58 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctBxfuD.o
+ .debug_frame   0x000000f8       0x30 /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//ccJkeK53.o
+ .debug_frame   0x00000128       0x20 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000148       0x20 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-memset.o)
+ .debug_frame   0x00000168       0x2c /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(libc_a-init.o)
+
+.debug_line_str
+                0x00000000      0x18d
+ .debug_line_str
+                0x00000000      0x18d /var/folders/bq/vfyx_yrj6ps_btmlp2pqy1wh0000gn/T//cctJCILq.o
+                                 0xbb (size before relaxing)
+ .debug_line_str
+                0x0000018d       0xd2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .debug_line_str
+                0x0000018d       0xd2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_line_str
+                0x0000018d       0xd2 /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/firmware/toolchain/arm-gnu-toolchain-13.3.rel1-darwin-arm64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)

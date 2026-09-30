@@ -1,0 +1,16 @@
+{
+  "query": "GRM188R71H103KA01D",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 77053,
+      "mfr": "GRM188R71H103KA01D",
+      "package": "0603",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "10nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "stock": 646665,
+      "price": 0.0087
+    }
+  ]
+}

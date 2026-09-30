@@ -1,0 +1,16 @@
+{
+  "query": "S5B-PH-SM4-TB(LF)(SN)",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 265104,
+      "mfr": "S5B-PH-SM4-TB(LF)(SN)",
+      "package": "SMD,P=2mm,卧贴",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-25℃~+85℃ 1 100V 13.9mm 1x5P 2A 2mm 5 5.5mm 5P 8.6mm Auxiliary Solder Pin Beige Copper alloy PA PH Surface Mount, Right Angle Tin UL94V-0 SMD,P=2mm,卧贴 Wire To Board Connector ROHS",
+      "stock": 4492,
+      "price": 0.372
+    }
+  ]
+}

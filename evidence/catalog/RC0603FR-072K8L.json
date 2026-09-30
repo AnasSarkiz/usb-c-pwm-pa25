@@ -1,0 +1,27 @@
+{
+  "query": "RC0603FR-072K8L",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 482810,
+      "mfr": "RC0603FR-072K8L",
+      "package": "0603",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 100mW 2.8kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "stock": 11,
+      "price": 0.0023
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 327400,
+      "mfr": "RC0603FR-072K8L-S",
+      "package": "0603",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 100mW 2.8kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "stock": 3,
+      "price": 0.0007
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "query": "BZT52C9V1-7-F",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 19077445,
+      "mfr": "BZT52C9V1S",
+      "package": "SOD-323",
+      "is_basic": false,
+      "is_preferred": true,
+      "description": "",
+      "stock": 444175,
+      "price": 0.0161
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 19077407,
+      "mfr": "BZT52C9V1",
+      "package": "SOD-123",
+      "is_basic": false,
+      "is_preferred": true,
+      "description": "",
+      "stock": 406464,
+      "price": 0.0152
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 22614,
+      "mfr": "BZT52C9V1S",
+      "package": "SOD-323",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "1 Independent 100Ω 15Ω 200mW 500nA@6V 8.5V~9.6V 9.1V SOD-323 Zener Diodes ROHS",
+      "stock": 24465,
+      "price": 0.0205
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 5805782,
+      "mfr": "BZT52C9V1S",
+      "package": "SOD-323",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 17983,
+      "price": 0.0143
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 2932742,
+      "mfr": "BZT52C9V1",
+      "package": "SOD-123",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "1 Independent 100Ω 15Ω 500mW 500nA@6V 8.5V~9.6V 9.1V SOD-123 Zener Diodes ROHS",
+      "stock": 16245,
+      "price": 0.0125
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 7544576,
+      "mfr": "BZT52C9V1S",
+      "package": "SOD-323",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 11338,
+      "price": 0.0134
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 353504,
+      "mfr": "BZT52C9V1",
+      "package": "SOD-123",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+150℃ 1 Independent 15Ω 500mW 8.5V~9.6V 9.1V 900nA@6V SOD-123 Zener Diodes ROHS",
+      "stock": 10570,
+      "price": 0.0117
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 49009969,
+      "mfr": "BZT52C9V1T",
+      "package": "SOD-523",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 9950,
+      "price": 0.0175
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 41425624,
+      "mfr": "BZT52C9V1",
+      "package": "SOD-123",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 9440,
+      "price": 0.0159
+    },
+    {
+      "source": "jlcpcb",
+      "lcsc": 41425623,
+      "mfr": "BZT52C9V1-TP",
+      "package": "SOD-123",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "",
+      "stock": 8560,
+      "price": 0.0159
+    }
+  ]
+}

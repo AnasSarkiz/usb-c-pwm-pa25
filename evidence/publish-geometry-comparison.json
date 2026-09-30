@@ -1,0 +1,42 @@
+[
+  {
+    "type": "pcb_trace",
+    "unchanged": true
+  },
+  {
+    "type": "pcb_via",
+    "unchanged": true
+  },
+  {
+    "type": "pcb_smtpad",
+    "unchanged": true
+  },
+  {
+    "type": "pcb_plated_hole",
+    "unchanged": true
+  },
+  {
+    "type": "pcb_hole",
+    "unchanged": true
+  },
+  {
+    "type": "pcb_copper_pour",
+    "unchanged": true
+  },
+  {
+    "type": "source_component",
+    "unchanged": true
+  },
+  {
+    "type": "source_port",
+    "unchanged": true
+  },
+  {
+    "type": "source_trace",
+    "unchanged": true
+  },
+  {
+    "type": "source_net",
+    "unchanged": true
+  }
+]

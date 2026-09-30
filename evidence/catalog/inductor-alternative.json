@@ -1,0 +1,16 @@
+{
+  "query": "SRP7050TA-150M",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 2045384,
+      "mfr": "SRP7050TA-150M",
+      "package": "SMD,7.3x6.6mm",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "15uH 3.5A 6A 81mΩ ±20% SMD,7.3x6.6mm Power Inductors ROHS",
+      "stock": 1512,
+      "price": 0.9143
+    }
+  ]
+}

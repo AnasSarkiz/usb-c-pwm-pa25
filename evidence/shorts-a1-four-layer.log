@@ -1,0 +1,6 @@
+Detected 1 short in circuit.json
+1. top/gerber short at x=-26.135mm y=2.012mm
+   U1.DRAIN2 <-> J1.B5, D2.IO2, U1.CC2, C6.pin1, source_net_1_mst0_0, source_net_1_mst1_0, source_net_1_mst2_0, pcb_via_195, pcb_via_196, pcb_via_197, pcb_via_198
+   pixels=30
+Short debug artifact written to /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/checks/check-shorts/bitmap.png
+Short debug artifact written to /Users/anassarkiz/tsci/tscircuit-store/boards/usb-c-pwm-pa25--01a0ef3d/checks/check-shorts/pcb.svg

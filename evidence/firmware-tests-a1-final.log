@@ -1,0 +1,3 @@
+cc -std=c11 -Wall -Wextra -Werror -fsanitize=address,undefined -g control.c test_control.c -o build/test-control
+./build/test-control
+PASS: PD qualification, restart interlock, sequencing, bounce, overload, thermal, supply, hardware faults, true zero

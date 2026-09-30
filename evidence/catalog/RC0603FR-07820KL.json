@@ -1,0 +1,16 @@
+{
+  "query": "RC0603FR-07820KL",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 141684,
+      "mfr": "RC0603FR-07820KL",
+      "package": "0603",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 100mW 75V 820kΩ Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "stock": 704,
+      "price": 0.0016
+    }
+  ]
+}

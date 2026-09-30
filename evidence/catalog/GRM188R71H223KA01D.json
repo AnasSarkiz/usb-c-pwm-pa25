@@ -1,0 +1,16 @@
+{
+  "query": "GRM188R71H223KA01D",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 77056,
+      "mfr": "GRM188R71H223KA01D",
+      "package": "0603",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "22nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "stock": 20387,
+      "price": 0.0091
+    }
+  ]
+}

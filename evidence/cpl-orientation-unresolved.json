@@ -1,0 +1,58 @@
+[
+  {
+    "designator": "U2",
+    "pcb_component_id": "pcb_component_21",
+    "supplier": "jlcpcb",
+    "reason": "missing_pin1_location",
+    "message": "U2: cannot verify jlcpcb pick-and-place rotation (missing_pin1_location); PCB rotation 0 is unverified."
+  },
+  {
+    "designator": "C19",
+    "pcb_component_id": "pcb_component_40",
+    "supplier": "jlcpcb",
+    "reason": "missing_supplier_pin1_location",
+    "message": "C19: cannot verify jlcpcb pick-and-place rotation (missing_supplier_pin1_location); PCB rotation 0 is unverified."
+  },
+  {
+    "designator": "U5",
+    "pcb_component_id": "pcb_component_41",
+    "supplier": "jlcpcb",
+    "reason": "missing_pin1_location",
+    "message": "U5: cannot verify jlcpcb pick-and-place rotation (missing_pin1_location); PCB rotation 0 is unverified."
+  },
+  {
+    "designator": "J3",
+    "pcb_component_id": "pcb_component_113",
+    "supplier": "jlcpcb",
+    "reason": "missing_pin1_location",
+    "message": "J3: cannot verify jlcpcb pick-and-place rotation (missing_pin1_location); PCB rotation 0 is unverified."
+  },
+  {
+    "designator": "J4",
+    "pcb_component_id": "pcb_component_117",
+    "supplier": "jlcpcb",
+    "reason": "missing_pin1_location",
+    "message": "J4: cannot verify jlcpcb pick-and-place rotation (missing_pin1_location); PCB rotation 0 is unverified."
+  },
+  {
+    "designator": "D3",
+    "pcb_component_id": "pcb_component_123",
+    "supplier": "jlcpcb",
+    "reason": "missing_pin1_location",
+    "message": "D3: cannot verify jlcpcb pick-and-place rotation (missing_pin1_location); PCB rotation 0 is unverified."
+  },
+  {
+    "designator": "D4",
+    "pcb_component_id": "pcb_component_125",
+    "supplier": "jlcpcb",
+    "reason": "missing_pin1_location",
+    "message": "D4: cannot verify jlcpcb pick-and-place rotation (missing_pin1_location); PCB rotation 0 is unverified."
+  },
+  {
+    "designator": "D5",
+    "pcb_component_id": "pcb_component_127",
+    "supplier": "jlcpcb",
+    "reason": "missing_pin1_location",
+    "message": "D5: cannot verify jlcpcb pick-and-place rotation (missing_pin1_location); PCB rotation 0 is unverified."
+  }
+]

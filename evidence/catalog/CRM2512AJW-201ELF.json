@@ -1,0 +1,16 @@
+{
+  "query": "CRM2512AJW-201ELF",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 2082768,
+      "mfr": "CRM2512AJW-201ELF",
+      "package": "2512",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-55℃~+155℃ 200Ω 2W Thick Film Resistor ±200ppm/℃ ±5% 2512 Chip Resistor - Surface Mount ROHS",
+      "stock": 84,
+      "price": 0.519
+    }
+  ]
+}

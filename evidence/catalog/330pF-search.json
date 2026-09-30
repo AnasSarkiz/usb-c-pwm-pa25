@@ -1,0 +1,16 @@
+{
+  "query": "GRM1885C1H331",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 882521,
+      "mfr": "GRM1885C1H331FA01D",
+      "package": "0603",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "330pF 50V NP0、C0G ±1% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "stock": 134,
+      "price": 0.0253
+    }
+  ]
+}

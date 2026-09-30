@@ -1,0 +1,16 @@
+{
+  "query": "LM4040B25IDBZR",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 701880,
+      "mfr": "LM4040B25IDBZR",
+      "package": "SOT-23",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+85℃ 100ppm/℃ 15mA 2.5V 35uVrms 45uA 45uA Fixed Parallel ±0.2% SOT-23 Voltage Reference ROHS",
+      "stock": 95,
+      "price": 1.5781
+    }
+  ]
+}

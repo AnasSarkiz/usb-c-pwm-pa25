@@ -1,0 +1,179 @@
+{
+  "requirement": ".20 mm ordinary drill edge to every solder pad, including same-net",
+  "minimumGapMm": -0.15,
+  "violationCount": 15,
+  "violations": [
+    {
+      "via": "pcb_via_7",
+      "pad": "pcb_smtpad_118",
+      "component": "R11",
+      "pins": [
+        "2",
+        "right"
+      ],
+      "gap": 0.15000128000163507,
+      "x": -14.50919467604989,
+      "y": 5.385901841268849
+    },
+    {
+      "via": "pcb_via_62",
+      "pad": "pcb_smtpad_243",
+      "component": "C31",
+      "pins": [
+        "1",
+        "left"
+      ],
+      "gap": 0.15844092093504938,
+      "x": 33.833476942180745,
+      "y": 11.356698270751155
+    },
+    {
+      "via": "pcb_via_63",
+      "pad": "pcb_smtpad_253",
+      "component": "R44",
+      "pins": [
+        "1",
+        "left"
+      ],
+      "gap": 0.1749999999999943,
+      "x": 36.45,
+      "y": 12.7
+    },
+    {
+      "via": "pcb_via_89",
+      "pad": "pcb_smtpad_127",
+      "component": "C11",
+      "pins": [
+        "1",
+        "left"
+      ],
+      "gap": 0.1510000000000005,
+      "x": -20.526,
+      "y": -0.2
+    },
+    {
+      "via": "pcb_via_93",
+      "pad": "pcb_smtpad_98",
+      "component": "U3",
+      "pins": [
+        "pin1"
+      ],
+      "gap": 0.1853407986403822,
+      "x": -24.85,
+      "y": -15.4
+    },
+    {
+      "via": "pcb_via_94",
+      "pad": "pcb_smtpad_48",
+      "component": "U1",
+      "pins": [
+        "pin23"
+      ],
+      "gap": 0.18106982373416167,
+      "x": -23.5,
+      "y": 0.47500000000000003
+    },
+    {
+      "via": "pcb_via_94",
+      "pad": "pcb_smtpad_49",
+      "component": "U1",
+      "pins": [
+        "pin24"
+      ],
+      "gap": 0.16321828514160677,
+      "x": -23.5,
+      "y": 0.47500000000000003
+    },
+    {
+      "via": "pcb_via_96",
+      "pad": "pcb_smtpad_18",
+      "component": "D1",
+      "pins": [
+        "pin5"
+      ],
+      "gap": 0.17488810000000035,
+      "x": -33.95,
+      "y": 2.5250000000000004
+    },
+    {
+      "via": "pcb_via_116",
+      "pad": "pcb_smtpad_333",
+      "component": "R55",
+      "pins": [
+        "1",
+        "left"
+      ],
+      "gap": 0.19496601046661935,
+      "x": 11.430033989533381,
+      "y": -18.59799202810229
+    },
+    {
+      "via": "pcb_via_138",
+      "pad": "pcb_smtpad_246",
+      "component": "R41",
+      "pins": [
+        "2",
+        "right"
+      ],
+      "gap": -0.13848585661112553,
+      "x": 26.236514143388874,
+      "y": 15.735033577700257
+    },
+    {
+      "via": "pcb_via_152",
+      "pad": "pcb_smtpad_329",
+      "component": "U10",
+      "pins": [
+        "pin4"
+      ],
+      "gap": 0.1509021000000004,
+      "x": 9.849,
+      "y": -22.119
+    },
+    {
+      "via": "pcb_via_194",
+      "pad": "pcb_smtpad_125",
+      "component": "C10",
+      "pins": [
+        "1",
+        "left"
+      ],
+      "gap": 0.032875748114287645,
+      "x": -12.113513561773454,
+      "y": 2.8421242518857124
+    },
+    {
+      "via": "pcb_via_198",
+      "pad": "pcb_smtpad_54",
+      "component": "U1",
+      "pins": [
+        "pin29"
+      ],
+      "gap": -0.15,
+      "x": -25.885487197439254,
+      "y": 1.990154781308721
+    },
+    {
+      "via": "pcb_via_198",
+      "pad": "pcb_smtpad_55",
+      "component": "U1",
+      "pins": [
+        "pin30"
+      ],
+      "gap": 0.06441300256074578,
+      "x": -25.885487197439254,
+      "y": 1.990154781308721
+    },
+    {
+      "via": "pcb_via_201",
+      "pad": "pcb_smtpad_23",
+      "component": "D2",
+      "pins": [
+        "pin1"
+      ],
+      "gap": 0.17320453150676693,
+      "x": -35.19449417318356,
+      "y": -3.1916468241773255
+    }
+  ]
+}

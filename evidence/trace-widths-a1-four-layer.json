@@ -1,0 +1,171 @@
+{
+  "minimumMm": 0.1,
+  "maximumMm": 0.8,
+  "wirePointCount": 2533,
+  "underMinimumWirePointCount": 23,
+  "examples": [
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 11.085003100000002,
+      "y": 1.8999982000000002,
+      "width": 0.1,
+      "layer": "top",
+      "start_pcb_port_id": "pcb_port_162"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.991253100000002,
+      "y": 1.8999982000000002,
+      "width": 0.1,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.897503100000002,
+      "y": 1.8999982000000002,
+      "width": 0.1,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.803753100000002,
+      "y": 1.8999982000000002,
+      "width": 0.1,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.7850037,
+      "y": 1.8999982000000002,
+      "width": 0.1,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.710003100000002,
+      "y": 1.8999982000000002,
+      "width": 0.10833338888881483,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.680324708087106,
+      "y": 1.8999982000000002,
+      "width": 0.11163098359345472,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.635019239527187,
+      "y": 1.9453036685599185,
+      "width": 0.11875004166661111,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.612992812432058,
+      "y": 1.9673300956550483,
+      "width": 0.12221115615496456,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.56872797879095,
+      "y": 2.0115949292961575,
+      "width": 0.1291666944444074,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.50243671805471,
+      "y": 2.0778861900323964,
+      "width": 0.1395833472222037,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.464914436285603,
+      "y": 2.118765306243631,
+      "width": 0.14600687307108545,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_18_mst2_0",
+      "route_type": "wire",
+      "x": 10.464914436285603,
+      "y": 2.118765306243631,
+      "width": 0.14600687307108545,
+      "layer": "inner1"
+    },
+    {
+      "trace": "source_net_14_mst1_0",
+      "route_type": "wire",
+      "x": -15.914996899999998,
+      "y": 2.8999981999999997,
+      "width": 0.1,
+      "layer": "top",
+      "start_pcb_port_id": "pcb_port_109"
+    },
+    {
+      "trace": "source_net_14_mst1_0",
+      "route_type": "wire",
+      "x": -16.0087469,
+      "y": 2.8999981999999997,
+      "width": 0.1,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_14_mst1_0",
+      "route_type": "wire",
+      "x": -16.1024969,
+      "y": 2.8999981999999997,
+      "width": 0.1,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_14_mst1_0",
+      "route_type": "wire",
+      "x": -16.1962469,
+      "y": 2.8999981999999997,
+      "width": 0.1,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_14_mst1_0",
+      "route_type": "wire",
+      "x": -16.2149963,
+      "y": 2.8999981999999997,
+      "width": 0.10833338888881483,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_14_mst1_0",
+      "route_type": "wire",
+      "x": -16.2899969,
+      "y": 2.8999981999999997,
+      "width": 0.11875004166661111,
+      "layer": "top"
+    },
+    {
+      "trace": "source_net_14_mst1_0",
+      "route_type": "wire",
+      "x": -16.3837469,
+      "y": 2.8999981999999997,
+      "width": 0.1291666944444074,
+      "layer": "top"
+    }
+  ],
+  "note": "These are actual emitted wire-width fields, not nominal configuration. No power-path ampacity approval is claimed."
+}

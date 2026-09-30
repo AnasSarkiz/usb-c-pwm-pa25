@@ -1,0 +1,16 @@
+{
+  "query": "TPS54202DDCR",
+  "results": [
+    {
+      "source": "jlcpcb",
+      "lcsc": 191884,
+      "mfr": "TPS54202DDCR",
+      "package": "SOT-23-6",
+      "is_basic": false,
+      "is_preferred": false,
+      "description": "-40℃~+125℃@(TJ) 1 2A 4.5V~28V 45uA 500kHz Adjustable Buck Buck Built-in Yes SOT-23-6 DC-DC Converters ROHS",
+      "stock": 180809,
+      "price": 0.2263
+    }
+  ]
+}
